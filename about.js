@@ -4,8 +4,9 @@
   /* ============================================================
    *  CONSTANTS & STATE
    * ============================================================ */
-  var DEFAULT_COLS = 14;
-  var ZOOMOUT_TARGET_COLS = 48;
+  var isMobileDevice = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || window.innerWidth <= 768;
+  var DEFAULT_COLS = isMobileDevice ? 8 : 14;
+  var ZOOMOUT_TARGET_COLS = isMobileDevice ? 28 : 48;
   var ZOOMOUT_DURATION = 1600;   // ms
   var FILL_PER_FRAME = 28;       // cells filled per rAF tick (laion zoom-out only)
   var LAION_STAGGER_MS = 1800;   // stagger window for gradual laion cell appearance

@@ -89,6 +89,59 @@ cpietsch@gmail.com
 </head>
 
 <body>
+  <div id="mobile-overlay">
+    <div class="mobile-overlay__title">AI Image Explorer</div>
+    <div class="mobile-overlay__body">
+      <div class="mobile-overlay__message">This visualization is not optimized for mobile phones and requires WebGL to be enabled. Please use a computer instead.</div>
+    </div>
+  </div>
+  <style>
+    #mobile-overlay {
+      display: none;
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: #fff;
+      color: #000;
+      font-family: 'GarabosseParagon', serif;
+      z-index: 99999;
+      flex-direction: column;
+      box-sizing: border-box;
+    }
+    .mobile-overlay__title {
+      font-size: 26px;
+      font-weight: 400;
+      line-height: 1;
+      padding: 20px 24px;
+      text-align: center;
+    }
+    .mobile-overlay__body {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 0 32px 60px;
+    }
+
+    .mobile-overlay__message {
+      font-size: 16px;
+      line-height: 1.2;
+      max-width: 300px;
+      color: #111;
+    }
+  </style>
+  <script>
+    (function() {
+      var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || window.innerWidth <= 768;
+      if (isMobile) {
+        document.getElementById('mobile-overlay').style.display = 'flex';
+        document.body.style.overflow = 'hidden';
+      }
+    })();
+  </script>
+
   <div id="hiddenreload"></div>
 
   <div class="search"></div>

@@ -229,3 +229,41 @@ body {
   opacity: 1;
   pointer-events: all;
 }
+
+/* ---------- Mobile adjustments ---------- */
+@media (max-width: 768px) {
+  /* Title: centered horizontally, stays at top */
+  .about-header {
+    width: 100%;
+    text-align: center;
+    padding: 20px 24px;
+  }
+
+  /* Fixed background — only text scrolls */
+  .about-grid {
+    position: fixed;
+  }
+  .about-grid-overlay {
+    position: fixed;
+  }
+
+  /* Smaller text on mobile */
+  .about-section__text {
+    font-size: 16px;
+  }
+
+  /* Wider, more readable text cards */
+  .about-section__card {
+    width: 360px;
+    max-width: 360px;
+    padding: 28px 24px;
+  }
+
+  .about-section {
+    padding: 60px 16px;
+  }
+
+  .about-grid-caption {
+    font-size: 7px;
+  }
+}
