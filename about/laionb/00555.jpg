@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PantherMedia - Important Notice</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: #000000;
+            color: #ffffff;
+            padding: 30px 0;
+            text-align: center;
+            border-bottom: 3px solid #333333;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            font-weight: 700;
+            letter-spacing: 2px;
+        }
+
+        .main-content {
+            background-color: #ffffff;
+            padding: 60px 20px;
+            text-align: center;
+        }
+
+        .notice-box {
+            background-color: #f5f5f5;
+            border: 2px solid #000000;
+            padding: 40px;
+            margin: 40px auto;
+            max-width: 800px;
+        }
+
+        .notice-box h2 {
+            font-size: 2em;
+            margin-bottom: 20px;
+            color: #000000;
+        }
+
+        .notice-box p {
+            font-size: 1.1em;
+            margin-bottom: 15px;
+            color: #333333;
+        }
+
+        .copyright-section {
+            background-color: #000000;
+            color: #ffffff;
+            padding: 50px 20px;
+            margin: 40px 0;
+        }
+
+        .copyright-section h2 {
+            font-size: 2em;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .info-block {
+            background-color: #1a1a1a;
+            border-left: 4px solid #ffffff;
+            padding: 25px;
+            margin: 20px auto;
+            max-width: 800px;
+            text-align: left;
+        }
+
+        .info-block h3 {
+            font-size: 1.4em;
+            margin-bottom: 15px;
+            color: #ffffff;
+        }
+
+        .info-block p {
+            margin-bottom: 12px;
+            color: #cccccc;
+            line-height: 1.8;
+        }
+
+        .info-block ul {
+            margin-left: 20px;
+            margin-top: 10px;
+            color: #cccccc;
+        }
+
+        .info-block li {
+            margin-bottom: 8px;
+        }
+
+        .search-box {
+            background-color: #ffffff;
+            border: 2px solid #000000;
+            padding: 30px;
+            margin: 30px auto;
+            max-width: 600px;
+        }
+
+        .search-box h3 {
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            color: #000000;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 15px;
+            font-size: 1.1em;
+            border: 2px solid #333333;
+            margin-bottom: 15px;
+        }
+
+        .search-button {
+            background-color: #000000;
+            color: #ffffff;
+            padding: 15px 40px;
+            font-size: 1.1em;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            width: 100%;
+        }
+
+        .search-button:hover {
+            background-color: #333333;
+        }
+
+        .payment-info {
+            background-color: #f9f9f9;
+            border: 2px solid #000000;
+            padding: 25px;
+            margin: 20px auto;
+            max-width: 800px;
+            text-align: left;
+        }
+
+        .payment-info strong {
+            color: #000000;
+            font-size: 1.1em;
+        }
+
+        .highlight {
+            background-color: #000000;
+            color: #ffffff;
+            padding: 2px 6px;
+            font-weight: bold;
+        }
+
+        footer {
+            background-color: #000000;
+            color: #ffffff;
+            text-align: center;
+            padding: 30px 20px;
+            margin-top: 60px;
+        }
+
+        footer p {
+            margin: 10px 0;
+        }
+
+        a {
+            color: #ffffff;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #cccccc;
+        }
+
+        .divider {
+            height: 2px;
+            background-color: #000000;
+            margin: 40px auto;
+            max-width: 800px;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 1.8em;
+            }
+
+            .notice-box, .info-block, .search-box, .payment-info {
+                padding: 20px;
+            }
+
+            .notice-box h2, .copyright-section h2 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <svg width="300" height="40" viewBox="0 0 1317 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+                <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+                    <path d="M24.953,22.14C24.953,22.14 20.999,19.106 20.891,19.269C20.529,19.811 23.491,22.788 23.491,22.788L24.953,22.14Z" style="fill:rgb(127,134,131);"/>
+                    <path d="M24.953,22.141C24.953,22.141 20.999,19.106 20.891,19.268C20.529,19.811 23.49,22.788 23.49,22.788L24.953,22.141Z" style="fill:white;"/>
+                    <path d="M36.971,0.932L4.097,0.932C1.834,0.932 0,2.767 0,5.03L0,7.254C9.925,8.923 10.961,8.276 11.793,7.029C12.659,5.729 11.034,4.7 12.009,4.592C12.984,4.484 18.021,10.116 19.429,10.549C20.836,10.982 28.094,17.752 28.31,18.997C28.31,18.997 29.068,22.68 29.285,24.088C29.502,25.497 30.314,28.042 31.289,29.992C31.993,31.4 32.101,32.483 31.776,33.621C30.964,34.704 28.02,35.021 27.119,35.408C25.603,36.056 25.44,37.412 24.357,38.115C23.522,38.658 21.417,37.427 20.349,36.165C19.158,34.757 18.421,33.577 18.345,33.566C16.775,33.349 15.962,32.97 14.825,32.537C13.594,32.068 11.944,30.664 11.793,30.641C10.384,30.425 7.731,30.641 7.731,30.641C5.723,30.526 1.982,34.785 0,37.241L0,37.903C0,40.166 1.834,42 4.097,42L36.971,42C39.233,42 41.068,40.166 41.068,37.903L41.068,5.03C41.068,2.767 39.233,0.932 36.971,0.932Z" style="fill:white;"/>
+                    <path d="M56.463,31.653L61.97,31.653L61.97,25.295L62.027,25.295C63.261,27.231 64.351,27.589 67.478,27.589L68.596,27.589C75.567,27.589 76.427,25.51 76.427,22.402L76.427,20.204C76.427,17.096 75.567,15.016 68.596,15.016L67.019,15.016C63.806,15.016 62.544,15.949 61.856,17.024L61.798,17.024L61.798,15.207L56.463,15.207L56.463,31.653ZM61.97,20.705C61.97,18.865 63.118,18.458 65.297,18.458L68.195,18.458C70.834,18.458 71.092,19.224 71.092,20.586L71.092,22.02C71.092,23.383 70.834,24.148 68.195,24.148L65.297,24.148C63.118,24.148 61.97,23.742 61.97,21.901L61.97,20.705Z" style="fill:white;"/>
+                    <path d="M87.147,24.721C84.997,24.721 84.251,24.411 84.251,23.622C84.251,22.618 84.738,22.187 87.062,22.187L89.5,22.187C92.541,22.187 92.856,22.522 92.856,23.431C92.856,24.243 92.512,24.721 88.726,24.721L87.147,24.721ZM78.915,24.124C78.915,26.992 81.066,27.614 84.422,27.589L88.18,27.589C90.934,27.589 91.508,27.327 93.028,26.012L93.028,27.399L98.249,27.399L98.249,19.391C98.249,16.522 96.241,15.016 92.454,15.016L86.058,15.016C81.411,15.016 79.46,15.566 79.46,18.865L84.795,18.865C84.853,18.004 85.312,17.885 86.918,17.885L90.16,17.885C92.311,17.885 92.742,18.315 92.742,19.51L92.742,20.586C91.68,19.678 90.017,19.606 87.004,19.606C81.669,19.606 78.915,19.797 78.915,23.12L78.915,24.124Z" style="fill:white;"/>
+                    <path d="M101.766,27.399L107.273,27.399L107.273,21.255C107.273,19.51 108.679,18.602 111.031,18.602L112.293,18.602C114.702,18.602 115.85,19.2 115.85,20.395L115.85,27.399L121.357,27.399L121.357,20.395C121.357,15.136 116.596,15.016 113.182,15.016C110.228,15.016 108.306,15.471 107.33,17.168L107.273,17.168L107.273,15.207L101.766,15.207L101.766,27.399Z" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M126.456,23.335C126.456,26.705 129.381,27.589 132.766,27.589L134.946,27.589C139.335,27.589 141.171,25.822 141.171,23.502L141.171,22.02L136.352,22.02L136.352,22.833C136.352,23.956 135.864,24.291 134.086,24.291C132.766,24.291 131.963,24.1 131.963,23.192L131.963,18.506L140.511,18.506L140.511,15.207L131.963,15.207L131.963,12.339L126.456,12.339L126.456,15.207L123.702,15.207L123.702,18.506L126.456,18.506L126.456,23.335Z" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M144.267,27.399L149.774,27.399L149.774,21.255C149.774,19.51 151.181,18.602 153.532,18.602L154.794,18.602C157.204,18.602 158.352,19.2 158.352,20.395L158.352,27.399L163.858,27.399L163.858,20.395C163.858,15.136 159.097,15.016 155.684,15.016C152.729,15.016 150.808,15.471 149.832,17.168L149.774,17.168L149.774,10.092L144.267,10.092L144.267,27.399Z" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M172.456,19.606C172.456,18.148 172.887,17.885 176.472,17.885C179.685,17.885 180.488,18.148 180.488,19.606L172.456,19.606ZM166.949,21.805C166.949,27.016 170.793,27.589 174.436,27.589L178.566,27.589C182.554,27.589 185.823,26.92 185.823,23.861L185.823,23.335L180.66,23.335C180.66,24.052 180.517,24.721 177.533,24.721L175.841,24.721C173.547,24.721 172.456,24.363 172.456,23.072L172.456,22.33L185.823,22.33L185.823,20.275C185.823,16.044 183.414,15.016 177.563,15.016L173.719,15.016C169.703,15.016 166.949,16.02 166.949,20.633L166.949,21.805Z" style="fill:white;"/>
+                    <path d="M188.916,27.399L194.423,27.399L194.423,20.658C194.423,19.2 195.743,18.602 197.636,18.602C199.845,18.602 200.275,19.343 200.275,20.896L205.037,20.896C205.065,20.467 205.095,20.132 205.095,19.821C205.095,16.451 203.517,15.016 199.501,15.016C197.005,15.016 194.768,15.59 194.137,17.526L194.079,17.526L194.079,15.207L188.916,15.207L188.916,27.399Z" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M207.789,27.399L213.296,27.399L213.296,20.968C213.296,19.08 214.415,18.602 216.768,18.602C220.095,18.602 220.754,18.984 220.754,20.491L220.754,27.399L226.262,27.399L226.262,20.681C226.262,19.08 227.352,18.602 229.991,18.602C233.203,18.602 233.72,19.176 233.72,20.849L233.72,27.399L239.228,27.399L239.228,20.538C239.228,17.048 237.42,15.016 232.4,15.016L230.708,15.016C227.581,15.016 226.405,15.662 225.487,17.861C224.455,15.949 222.677,15.016 220.066,15.016L217.973,15.016C215.275,15.016 213.382,15.853 213.096,17.598L213.038,17.598L213.038,15.207L207.789,15.207L207.789,27.399Z" style="fill:white;fill-rule:nonzero;"/>
+                    <path d="M247.571,19.606C247.571,18.148 248.002,17.885 251.587,17.885C254.8,17.885 255.604,18.148 255.604,19.606L247.571,19.606ZM242.064,21.805C242.064,27.016 245.907,27.589 249.551,27.589L253.682,27.589C257.668,27.589 260.937,26.92 260.937,23.861L260.937,23.335L255.775,23.335C255.775,24.052 255.632,24.721 252.648,24.721L250.956,24.721C248.661,24.721 247.571,24.363 247.571,23.072L247.571,22.33L260.937,22.33L260.937,20.275C260.937,16.044 258.528,15.016 252.678,15.016L248.834,15.016C244.817,15.016 242.064,16.02 242.064,20.633L242.064,21.805Z" style="fill:white;"/>
+                    <path d="M263.658,22.402C263.658,25.51 264.519,27.589 271.489,27.589L273.095,27.589C276.423,27.589 277.8,26.658 278.402,25.152L278.459,25.152L278.459,27.399L283.622,27.399L283.622,10.092L278.115,10.092L278.115,17.455L278.058,17.455C277.714,15.542 275.391,15.016 273.124,15.016L271.489,15.016C264.519,15.016 263.658,17.096 263.658,20.204L263.658,22.402ZM268.993,20.586C268.993,19.224 269.251,18.458 271.891,18.458L275.132,18.458C277.313,18.458 278.459,18.865 278.459,20.705L278.459,21.901C278.459,23.742 277.313,24.148 275.132,24.148L271.891,24.148C269.251,24.148 268.993,23.383 268.993,22.02L268.993,20.586Z" style="fill:white;"/>
+                    <path d="M293.225,10.092L287.717,10.092L287.717,13.677L293.225,13.677L293.225,10.092ZM293.225,15.207L287.717,15.207L287.717,27.399L293.225,27.399L293.225,15.207Z" style="fill:white;"/>
+                    <path d="M304.631,24.721C302.479,24.721 301.734,24.411 301.734,23.622C301.734,22.618 302.222,22.187 304.545,22.187L306.983,22.187C310.024,22.187 310.34,22.522 310.34,23.431C310.34,24.243 309.995,24.721 306.209,24.721L304.631,24.721ZM296.398,24.124C296.398,26.992 298.55,27.614 301.906,27.589L305.664,27.589C308.418,27.589 308.992,27.327 310.512,26.012L310.512,27.399L315.732,27.399L315.732,19.391C315.732,16.522 313.725,15.016 309.938,15.016L303.541,15.016C298.895,15.016 296.943,15.566 296.943,18.865L302.279,18.865C302.337,18.004 302.796,17.885 304.401,17.885L307.643,17.885C309.795,17.885 310.226,18.315 310.226,19.51L310.226,20.586C309.164,19.678 307.5,19.606 304.488,19.606C299.152,19.606 296.398,19.797 296.398,23.12L296.398,24.124Z" style="fill:white;"/>
+                </g>
+            </svg>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="main-content">
+            <div class="notice-box">
+                <h2>Important Service Notice</h2>
+                <p><strong>PantherMedia has ceased operations on panthermedia.net</strong></p>
+                <p>After many years of serving the creative community, we have discontinued our services as of this date. We would like to express our sincere gratitude to all our customers, contributors, and partners who have been part of our journey.</p>
+                <p style="margin-top: 30px; font-size: 1.3em; font-weight: bold;">Thank you for all these years of business.</p>
+            </div>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="copyright-section">
+            <div class="container">
+                <h2>Copyright Infringement Notice from Copytrack?</h2>
+                
+                <div class="info-block">
+                    <h3>If You Received a Notice from Copytrack GmbH or RD Legal GmbH</h3>
+                    <p>If you have received a copyright infringement notice regarding PantherMedia images from <span class="highlight">Copytrack GmbH</span> or <span class="highlight">RD Legal GmbH</span>, please follow the instructions below to resolve your case.</p>
+                </div>
+
+                <div class="info-block">
+                    <h3>How to Make a Payment</h3>
+                    <p><strong>Step 1:</strong> Locate your Case ID in the email or letter you received from Copytrack. It typically appears in the format: <span class="highlight">Case ID: XXXXXX</span></p>
+                    
+                    <p><strong>Step 2:</strong> Visit the Copytrack payment portal:</p>
+                    <p style="text-align: center; margin: 15px 0;"><a href="https://portal.copytrack.com" target="_blank" style="color: #ffffff; font-size: 1.2em; font-weight: bold;">portal.copytrack.com</a></p>
+                    
+                    <p><strong>Step 3:</strong> Enter your Case ID when prompted</p>
+                    
+                    <p><strong>Step 4:</strong> Review the case details and payment options presented</p>
+                    
+                    <p><strong>Step 5:</strong> Complete payment through one of the following methods:</p>
+                    <ul>
+                        <li>PayPal</li>
+                        <li>Credit Card</li>
+                        <li>Bank Transfer</li>
+                    </ul>
+                </div>
+
+                <div class="search-box">
+                    <h3>Access Payment Portal</h3>
+                    <p style="color: #666; margin-bottom: 20px;">Click the button below to access the Copytrack payment portal. You will need your Case ID to proceed with payment.</p>
+                    <button class="search-button" onclick="window.open('https://portal.copytrack.com', '_blank')">Go to Copytrack Payment Portal</button>
+                </div>
+
+                <div class="payment-info">
+                    <p><strong>Payment Options Explained:</strong></p>
+                    <p style="margin-top: 15px;"><strong>Option 1 - Subsequent License:</strong> Purchase a license that covers past use and grants future use rights for one year</p>
+                    <p style="margin-top: 10px;"><strong>Option 2 - Compensation:</strong> Pay compensation for past use and immediately remove the image from your website</p>
+                    <p style="margin-top: 20px; color: #666;"><em>Note: Payment amounts are calculated based on the copyright holder's license history, duration of use, and type of infringement.</em></p>
+                </div>
+
+                <div class="info-block">
+                    <h3>Need Assistance?</h3>
+                    <p>For questions regarding your copyright infringement case, please contact:</p>
+                    <p style="margin-top: 15px;"><strong>Copytrack GmbH</strong><br>
+                    Phone: <a href="tel:+493080933291">+49 30 809 332 910</a><br>
+                    Available: Monday - Friday, 9:00 AM - 1:00 PM CET<br>
+                    Email: <a href="/cdn-cgi/l/email-protection#583b37362c393b2c183b3728212c2a393b33763b3735"><span class="__cf_email__" data-cfemail="01626e6f7560627541626e7178757360626a2f626e6c">[email&#160;protected]</span></a></p>
+                </div>
+
+                <div class="info-block">
+                    <h3>If You Have Proof of License</h3>
+                    <p>If you have documentation proving you purchased a valid license for the image in question:</p>
+                    <ul>
+                        <li>Reply to the original email from Copytrack</li>
+                        <li>Attach your proof of purchase or license agreement</li>
+                        <li>Include any relevant transaction records</li>
+                    </ul>
+                    <p style="margin-top: 15px;">If your license is valid, Copytrack will close your case immediately.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 PantherMedia. All rights reserved.</p>
+            <p>For copyright enforcement inquiries, please contact Copytrack GmbH directly.</p>
+        </div>
+    </footer>
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+        // No JavaScript needed for simple link button
+    </script>
+</body>
+</html>

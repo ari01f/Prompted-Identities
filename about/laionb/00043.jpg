@@ -1,0 +1,649 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<!--0.2462-->  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="description" content="Latest news - Front page - Neo Drive">
+  <title>Automotive news and blogs - Front page - Neo Drive</title>
+	<link rel="canonical" href="https://neo-drive.com" />
+  <link rel="stylesheet" type="text/css" href="files/css/fonts.css"/>
+  <link rel="stylesheet" type="text/css" href="files/css/base.css"/>
+  <link rel="stylesheet" type="text/css" href="style_v-0.1.css"/>
+  <link rel="stylesheet" type="text/css" href="files/css/flexslider.css"/>
+  <link rel="stylesheet" type="text/css" href="files/css/cusel.css"/>
+  <link rel="stylesheet" type="text/css" href="files/css/parallaxSlider.css"/>
+  <!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="https://neo-drive.com/files/custom/css/ie8.css" /><![endif]-->
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <script type="application/javascript" src="files/js/jquery-1.8.3.min.js"></script>
+<style>
+.logofim{
+    color: #ffa200;
+    text-decoration: none;
+    font: bold 36px/19px segoeuib, Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+.logofim2{
+    color: #5ca200;
+}
+</style>
+<script src="optimize_id-OPT-PGCTD29.js"></script>
+</head>
+<body>
+<div class="sp"></div>
+<div class="wrapper">
+<!-- header -->
+<header>
+    <div class="wrap">
+            <a href="/" title="" class="logofim">Neo <span class="logofim2">Drive</span></a>
+      	<a href="register/" rel="nofollow" class="button float_r">Signup</a>
+	<a href="login/" rel="nofollow" class="button float_r">Login</a>
+<!--
+      <a title="Zombiedrive cars" class="nav-logo"><img src="/files/img/car-icon2.png" alt="Zombiedrive cars"></a>
+      <a href="http://moto.zombdrive.com" title="Zombiedrive moto" class="nav-logo"><img src="/files/img/moto-icon2.png" alt="Zombiedrive moto"></a>
+-->
+      <div class="likes">
+<!--          <img src="/files/img/temp/likes.png" alt="">-->
+      </div>
+      <div class="clearing"></div>
+      <nav class="top_menu">
+        <ul>
+          <li class="active"><a href="/" title="">HOME</a><span></span></li>
+<!--          <li><a href="--><!--" title="">CARS</a><span></span></li>-->
+          <li><a href="articles/" title="">NEWS</a><span></span></li>
+<!--          <li><a href="--><!--" title="">ARTICLES</a><span></span></li>-->
+<!--          <li><a href="#" title="">VIDEO</a><span></span></li>-->
+          <li><a href="html/about_us/" title="">ABOUT US</a><span></span></li>
+        </ul>
+      </nav>
+<!--
+      <form action="#" method="post" class="search_form">
+        <fieldset>
+          <div class="input"><input type="text" id="gsearch" placeholder="search"></div>
+          <a href="#" class="button2" onclick="window.open('//www.google.ru/search?q=site%3Ahttps%3A%2F%2Fneo-drive.com '+$('#gsearch').val());">search</a>
+        </fieldset>
+      </form>
+-->
+      <div class="clearing"></div>
+    </div>
+  </header>
+  <!-- /header -->
+  <div class="content">
+    <div class="wrap">
+  		      <!-- middle column -->
+      <div class="mid_col">
+        <!-- Latest review -->
+                <div class="headline"><span></span><h2>Latest review</h2></div>
+         <div id="slider" class="slider">
+          <div class="pxs_loading"></div>
+          <div class="pxs_slider_wrapper">
+            <ul class="pxs_slider good_images">
+                                  <li>
+                      <a href="articles/automobile-site---features-of-creation-and-promotion-of-a-site/" style="background-image:url('images600_/automobile-site-features-of-creation-and-promotion-of-a-site-1.jpg');">
+                        <img src="images600_/automobile-site-features-of-creation-and-promotion-of-a-site-1.jpg" title="Automobile site - features of creation and promotion of a site" alt="Automobile site - features of creation and promotion of a site"/>
+                      </a>
+                      <div>
+                        <h3>Automobile site - features of creation and promotion of a site</h3>
+                        <p>&nbsp;  
+If you want to make a dent in the automobile industry with your website, you need to understand many different aspects of site design, UX, layouts, and the steps to make your business marketable. You need to stand►</p>
+                      </div>
+                    </li>
+                                    <li>
+                      <a href="articles/car-tuning/" style="background-image:url('images600_/aesthetic-tuning-3.jpg');">
+                        <img src="images600_/aesthetic-tuning-3.jpg" title="Car tuning" alt="Car tuning"/>
+                      </a>
+                      <div>
+                        <h3>Car tuning</h3>
+                        <p>Why do tuning
+&nbsp;
+This is actually a question that has a very logical explanation. If we own things, eventually we would try to find ways to make them either work better or look better, especially when that thing is►</p>
+                      </div>
+                    </li>
+                                    <li>
+                      <a href="articles/kymco-dink-2/" style="background-image:url('images600_/kymco-dink1-1.jpg');">
+                        <img src="images600_/kymco-dink1-1.jpg" title="Kymco Dink, the ride that speaks for you" alt="Kymco Dink, the ride that speaks for you"/>
+                      </a>
+                      <div>
+                        <h3>Kymco Dink, the ride that speaks for you</h3>
+                        <p>  
+This advertisement shows the superb cool ride, Kymco Dink. This scooter has a sporty and edgy look. It has a brilliant headlamp with LED lights and winkers. The model bears a sporty and digital speedometer that also shows►</p>
+                      </div>
+                    </li>
+                                    <li>
+                      <a href="articles/lincoln-navigator-2/" style="background-image:url('images600_/lincoln-navigator1.jpg');">
+                        <img src="images600_/lincoln-navigator1.jpg" title="Navigate Your Experience with Lincoln Navigator" alt="Navigate Your Experience with Lincoln Navigator"/>
+                      </a>
+                      <div>
+                        <h3>Navigate Your Experience with Lincoln Navigator</h3>
+                        <p>  
+Lincoln Navigator is produced by the world recognized company, Ford Motors. Lincoln is basically the luxury division of the FM. This advertisement features Lincoln Navigator, which shares its platform with Ford Expedition. Navigator was given a more upscale►</p>
+                      </div>
+                    </li>
+                                    <li>
+                      <a href="articles/pontiac-firebird-2/" style="background-image:url('images600_/pontiac-firebird1-1.jpg');">
+                        <img src="images600_/pontiac-firebird1-1.jpg" title="The vicious firework by Pontiac Firebird" alt="The vicious firework by Pontiac Firebird"/>
+                      </a>
+                      <div>
+                        <h3>The vicious firework by Pontiac Firebird</h3>
+                        <p>  
+This strong and vicious burn-out beast is the Firebird by Pontiac. This is another muscle car, too modern and amazing for its time. This American model is one of those that remain unrivaled and unequaled to this time.►</p>
+                      </div>
+                    </li>
+                            </ul>
+            <ul class="pxs_thumbnails">
+              <li><div><img src="images250_/automobile-site-features-of-creation-and-promotion-of-a-site-1.jpg" alt=""/></div><span></span></li><li><div><img src="images250_/aesthetic-tuning-3.jpg" alt=""/></div><span></span></li><li><div><img src="images250_/kymco-dink1-1.jpg" alt=""/></div><span></span></li><li><div><img src="images250_/lincoln-navigator1.jpg" alt=""/></div><span></span></li><li><div><img src="images250_/pontiac-firebird1-1.jpg" alt=""/></div><span></span></li>            </ul>
+          </div>
+        </div>  
+                <!-- /Latest review -->   
+        <!-- News -->
+        <div class="headline"><span></span><h2>News</h2></div>
+        <ul class="news_list">
+        					  <li>
+		            <a href="articles/oldsmobile-intrigue-2/" class="news_wrap">
+		              <span class="news_img"><img src="images600_/oldsmobile-intrigue1-1.jpg" alt="The gold digging ride, Oldsmobile Intrigue" title="The gold digging ride, Oldsmobile Intrigue"/></span>
+		              <span class="news_content">
+		                <strong><span></span>The gold digging ride, Oldsmobile Intrigue</strong>
+		                <span class="date">2019-10-21 08:34:43</span>
+		                <span class="news_text">  
+This advertisement shows the super vehicle, Intrigue by Oldsmobile. Oldsmobile is a side line of the American motors. This midsize sedan was manufactured through 2002. The car was given luxury features and a high speed to attract those►</span>
+		                <span class="read_more">Read more...</span>
+		              </span>
+		              <span class="clearing"></span>
+		            </a>
+		          </li>
+	        					  <li>
+		            <a href="articles/lincoln-ls-2/" class="news_wrap">
+		              <span class="news_img"><img src="images600_/lincoln-ls1-2.jpg" alt="The car of your dreams, Lincoln LS" title="The car of your dreams, Lincoln LS"/></span>
+		              <span class="news_content">
+		                <strong><span></span>The car of your dreams, Lincoln LS</strong>
+		                <span class="date">2019-10-21 07:47:31</span>
+		                <span class="news_text">  
+Lincoln LS is a luxury car that is known as an attractive alternative to the European sports sedans. The LS was later renamed as LS V6 or LS V8 as its name clashed with the Lexus&rsquo;s L series.►</span>
+		                <span class="read_more">Read more...</span>
+		              </span>
+		              <span class="clearing"></span>
+		            </a>
+		          </li>
+	        					  <li>
+		            <a href="articles/mercury-monterey-2/" class="news_wrap">
+		              <span class="news_img"><img src="images600_/mercury-monterey10-1.jpg" alt="Mercury Monterey – Luxury car from the bygones" title="Mercury Monterey – Luxury car from the bygones"/></span>
+		              <span class="news_content">
+		                <strong><span></span>Mercury Monterey – Luxury car from the bygones</strong>
+		                <span class="date">2019-10-20 22:06:31</span>
+		                <span class="news_text">  Mercury Monterey surely reminds us of the low riders used to manufacture in the late 70s and used to be considered as luxurious sports cars. No wonder why this proposition was made because even the Mercury Monterey has►</span>
+		                <span class="read_more">Read more...</span>
+		              </span>
+		              <span class="clearing"></span>
+		            </a>
+		          </li>
+	        					  <li>
+		            <a href="articles/jaguar-420-2/" class="news_wrap">
+		              <span class="news_img"><img src="images600_/jaguar-420-1.jpg" alt="Jaguar 420 is as modest as a car gets " title="Jaguar 420 is as modest as a car gets "/></span>
+		              <span class="news_content">
+		                <strong><span></span>Jaguar 420 is as modest as a car gets </strong>
+		                <span class="date">2019-10-20 21:56:37</span>
+		                <span class="news_text">  Talking about decency and modesty, Jaguar 420 steals the show with a number of graceful and decent packages pre-installed in the car. Each and everything in the car contributes to its decency and makes it one of the►</span>
+		                <span class="read_more">Read more...</span>
+		              </span>
+		              <span class="clearing"></span>
+		            </a>
+		          </li>
+	        					  <li>
+		            <a href="articles/alfa-romeo-145-2/" class="news_wrap">
+		              <span class="news_img"><img src="images600_/alfa-romeo-1451-6.jpg" alt="Alfa Romeo 145 is the red venom " title="Alfa Romeo 145 is the red venom "/></span>
+		              <span class="news_content">
+		                <strong><span></span>Alfa Romeo 145 is the red venom </strong>
+		                <span class="date">2019-10-20 21:42:43</span>
+		                <span class="news_text">  Alfa Romeo 145 is the red large family vehicle which has got all the dream specifications and features of a great family car. Alfa Romeo has got what it takes to meet all the needs of even a►</span>
+		                <span class="read_more">Read more...</span>
+		              </span>
+		              <span class="clearing"></span>
+		            </a>
+		          </li>
+	        					  <li>
+		            <a href="articles/dodge-t-rex-2/" class="news_wrap">
+		              <span class="news_img"><img src="images600_/dodge-trex1-1.jpg" alt="Dodge T-Rex – Impossible is nothing " title="Dodge T-Rex – Impossible is nothing "/></span>
+		              <span class="news_content">
+		                <strong><span></span>Dodge T-Rex – Impossible is nothing </strong>
+		                <span class="date">2019-10-20 21:32:12</span>
+		                <span class="news_text">  That proverb is somehow almost true when one has access to the mighty Dodge T-Rex. The truck is insanely strong and powerful and has sporty looks. The set of pictures shows what looks Photoshopped at first because eyes►</span>
+		                <span class="read_more">Read more...</span>
+		              </span>
+		              <span class="clearing"></span>
+		            </a>
+		          </li>
+	        	        </ul> 
+        <!-- /News -->
+        <!-- Top video -->
+        <div class="headline"><span></span><h2>TOP VIDEO</h2></div>
+        <div class="video">
+          <div class="video_bg">
+           <iframe width="580" height="383" src="https://www.youtube.com/embed/9sStWs-O_T4" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div> 
+        <!-- /Top video -->
+        <!-- Most popular cars -->
+        <div class="headline"><span></span><h2>MOST POPULAR CARS</h2></div>
+        <ul class="cars_list">
+        						<li><a href="/" title="1998 Ford Windstar"><img src="images600_/1998-ford-windstar-1.jpg" alt="1998 Ford Windstar" title="1998 Ford Windstar">
+						   <span>1998 Ford Windstar</span>
+						</a>
+					</li>
+									<li><a href="/" title="1998 Ford Windstar Cargo"><img src="images600_/1998-ford-windstar-cargo-1.jpg" alt="1998 Ford Windstar Cargo" title="1998 Ford Windstar Cargo">
+						   <span>1998 Ford Windstar Cargo</span>
+						</a>
+					</li>
+									<li><a href="/" title="1998 GMC Envoy"><img src="images600_/1998-gmc-envoy-1.jpg" alt="1998 GMC Envoy" title="1998 GMC Envoy">
+						   <span>1998 GMC Envoy</span>
+						</a>
+					</li>
+				        </ul> 
+        <!-- /Most popular cars -->
+      </div>
+      <!-- /middle column -->  
+      <!-- right column -->
+      <aside class="right_col">
+        <!-- Latest cars -->
+        <div class="grey_bg2">
+          <div class="headline2"><span></span><h3>Latest cars</h3></div>
+          <ul class="cars_list latest">
+          	    				<li>
+    					<a href="/" title="">
+    						<img src="images600_/2015-ford-transit-wagon-1.jpg" alt="2015 Ford Transit Wagon" title="2015 Ford Transit Wagon"/>
+    						<span>Ford Transit Wagon</span>
+    					</a>
+    				</li>
+    				    				<li>
+    					<a href="ford/2015/ford-fusion/" title="">
+    						<img src="images600_/2015-ford-fusion-1.jpg" alt="2015 Ford Fusion" title="2015 Ford Fusion"/>
+    						<span>Ford Fusion</span>
+    					</a>
+    				</li>
+    				    				<li>
+    					<a href="kia/2015/kia-sorento/" title="">
+    						<img src="images600_/2015-kia-sorento-1.jpg" alt="2015 Kia Sorento" title="2015 Kia Sorento"/>
+    						<span>Kia Sorento</span>
+    					</a>
+    				</li>
+          </ul>
+        </div> 
+        <!-- /Latest cars -->
+        <!-- Most popular articles -->
+        <div class="grey_bg">
+          <div class="headline2"><span></span><h3>Most popular articles</h3></div>
+          <ul class="cars_list2">
+          					<li>
+	              <a href="articles/2004-oldsmobile-silhouette/" class="list_wrap">
+	                <img src="images600_/2004-oldsmobile-silhouette-3791.jpg" alt="2004 OLDSMOBILE SILHOUETTE" title="2004 OLDSMOBILE SILHOUETTE"/>
+	                <strong>2004 OLDSMOBILE SILHOUETTE</strong>
+	                <span class="car_text">2004 Oldsmobile Silhouette: Safe and Reliable Minivan&nbsp;
+2004 Oldsmobile Silhouette is a minivan that actually made its debut in 1989. It was made by Odsmobile, a marque of General Motors that...</span>
+	                <span class="clearing"></span>
+	              </a>
+	            </li>
+				   				<li>
+	              <a href="articles/2002-oldsmobile-intrigue/" class="list_wrap">
+	                <img src="images600_/2002-oldsmobile-intrigue-5442.jpg" alt="2002 OLDSMOBILE INTRIGUE" title="2002 OLDSMOBILE INTRIGUE"/>
+	                <strong>2002 OLDSMOBILE INTRIGUE</strong>
+	                <span class="car_text">2002 Oldsmobile Intrigue: Sedan that Makes Rides Enjoyable
+Intrigue is a mid size car made by Oldsmobile, a marquee of General Motors that was discontinued by the company in 2004. It...</span>
+	                <span class="clearing"></span>
+	              </a>
+	            </li>
+				   				<li>
+	              <a href="articles/2006-panoz-esperante/" class="list_wrap">
+	                <img src="images600_/2006-panoz-esperante-2648.jpg" alt="2006 PANOZ ESPERANTE" title="2006 PANOZ ESPERANTE"/>
+	                <strong>2006 PANOZ ESPERANTE</strong>
+	                <span class="car_text">2006 Panoz Esperante: In a Class of its Own
+2006 Panoz Esperante is a sports luxury car made by Panoz, an American automotive company. In fact, Esperante is one of the...</span>
+	                <span class="clearing"></span>
+	              </a>
+	            </li>
+				            </ul>
+        </div> 
+        <!-- /Most popular articles -->
+        <!-- Random photo of the day -->
+        <div class="headline2"><span></span><h3>Random photo of the day</h3></div>
+        <div class="random_photo">
+          <div class="random_bg">
+            <div class="random_in">
+              <a href="dodge/2003/dodge-intrepid/" title="">
+                <img src="images600_/2003-dodge-intrepid-10.jpg" alt="2003 Dodge Intrepid" title="2003 Dodge Intrepid"/>
+                <span>Dodge Intrepid</span>
+              </a>
+            </div>
+          </div>
+        </div> 
+        <!-- /Random photo of the day -->
+      </aside>
+      <!-- /right column -->
+      <div class="clearing"></div>  
+  	</div>
+  </div>
+	<div class="push"></div>
+   </div>
+<div>
+  <style>
+    ul.hr {
+      margin: 0;
+      padding: 4px;
+    }
+    ul.hr li {
+      display: inline;
+      margin-right: 5px;
+      padding: 3px;
+    }
+  </style>
+  <h6>Neo Drive affiliate</h6>
+  <ul class="hr">
+  <li>magnavox logo commercial</li><li>dna clipart vector</li><li>microsoft logo official</li><li>crash bandicoot png skylanders</li><li>black and white heart clipart decorative</li></ul>
+</div>
+<!-- footer -->
+<footer>
+	<div class="foot_top">
+    <div class="wrap">
+    	<div class="top"><a id="w2b-StoTop" class="hash">TOP</a></div>
+      <!-- <div class="brands">
+	<table>
+		<tr>
+					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/acura.jpg" alt=""><a href="https://neo-drive.com/acura/" title="Acura">ACURA</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/alfa-romeo.jpg" alt=""><a href="https://neo-drive.com/alfa-romeo/" title="Alfa Romeo">ALFA ROMEO</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/am-general.jpg" alt=""><a href="https://neo-drive.com/am-general/" title="AM General">AM GENERAL</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/aston-martin.jpg" alt=""><a href="https://neo-drive.com/aston-martin/" title="Aston Martin">ASTON MARTIN</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/audi.jpg" alt=""><a href="https://neo-drive.com/audi/" title="Audi">AUDI</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/bentley.jpg" alt=""><a href="https://neo-drive.com/bentley/" title="Bentley">BENTLEY</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/bmw.jpg" alt=""><a href="https://neo-drive.com/bmw/" title="BMW">BMW</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/bugatti.jpg" alt=""><a href="https://neo-drive.com/bugatti/" title="Bugatti">BUGATTI</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/buick.jpg" alt=""><a href="https://neo-drive.com/buick/" title="Buick">BUICK</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/cadillac.jpg" alt=""><a href="https://neo-drive.com/cadillac/" title="Cadillac">CADILLAC</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/chevrolet.jpg" alt=""><a href="https://neo-drive.com/chevrolet/" title="Chevrolet">CHEVROLET</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/chrysler.jpg" alt=""><a href="https://neo-drive.com/chrysler/" title="Chrysler">CHRYSLER</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/daewoo.jpg" alt=""><a href="https://neo-drive.com/daewoo/" title="Daewoo">DAEWOO</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/dodge.jpg" alt=""><a href="https://neo-drive.com/dodge/" title="Dodge">DODGE</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/eagle.jpg" alt=""><a href="https://neo-drive.com/eagle/" title="Eagle">EAGLE</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/ferrari.jpg" alt=""><a href="https://neo-drive.com/ferrari/" title="Ferrari">FERRARI</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/fiat.jpg" alt=""><a href="https://neo-drive.com/fiat/" title="FIAT">FIAT</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/fisker.jpg" alt=""><a href="https://neo-drive.com/fisker/" title="Fisker">FISKER</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/ford.jpg" alt=""><a href="https://neo-drive.com/ford/" title="Ford">FORD</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/geo.jpg" alt=""><a href="https://neo-drive.com/geo/" title="Geo">GEO</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/gmc.jpg" alt=""><a href="https://neo-drive.com/gmc/" title="GMC">GMC</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/honda.jpg" alt=""><a href="https://neo-drive.com/honda/" title="Honda">HONDA</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/hummer.jpg" alt=""><a href="https://neo-drive.com/hummer/" title="HUMMER">HUMMER</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/hyundai.jpg" alt=""><a href="https://neo-drive.com/hyundai/" title="Hyundai">HYUNDAI</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/infiniti.jpg" alt=""><a href="https://neo-drive.com/infiniti/" title="Infiniti">INFINITI</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/isuzu.jpg" alt=""><a href="https://neo-drive.com/isuzu/" title="Isuzu">ISUZU</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/jaguar.jpg" alt=""><a href="https://neo-drive.com/jaguar/" title="Jaguar">JAGUAR</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/jeep.jpg" alt=""><a href="https://neo-drive.com/jeep/" title="Jeep">JEEP</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/kia.jpg" alt=""><a href="https://neo-drive.com/kia/" title="Kia">KIA</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/lamborghini.jpg" alt=""><a href="https://neo-drive.com/lamborghini/" title="Lamborghini">LAMBORGHINI</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/land-rover.jpg" alt=""><a href="https://neo-drive.com/land-rover/" title="Land Rover">LAND ROVER</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/lexus.jpg" alt=""><a href="https://neo-drive.com/lexus/" title="Lexus">LEXUS</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/lincoln.jpg" alt=""><a href="https://neo-drive.com/lincoln/" title="Lincoln">LINCOLN</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/lotus.jpg" alt=""><a href="https://neo-drive.com/lotus/" title="Lotus">LOTUS</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/maserati.jpg" alt=""><a href="https://neo-drive.com/maserati/" title="Maserati">MASERATI</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/maybach.jpg" alt=""><a href="https://neo-drive.com/maybach/" title="Maybach">MAYBACH</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/mazda.jpg" alt=""><a href="https://neo-drive.com/mazda/" title="Mazda">MAZDA</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/mclaren.jpg" alt=""><a href="https://neo-drive.com/mclaren/" title="McLaren">MCLAREN</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/mercedes-benz.jpg" alt=""><a href="https://neo-drive.com/mercedes-benz/" title="Mercedes-Benz">MERCEDES-BENZ</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/mercury.jpg" alt=""><a href="https://neo-drive.com/mercury/" title="Mercury">MERCURY</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/mini.jpg" alt=""><a href="https://neo-drive.com/mini/" title="MINI">MINI</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/mitsubishi.jpg" alt=""><a href="https://neo-drive.com/mitsubishi/" title="Mitsubishi">MITSUBISHI</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/nissan.jpg" alt=""><a href="https://neo-drive.com/nissan/" title="Nissan">NISSAN</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/oldsmobile.jpg" alt=""><a href="https://neo-drive.com/oldsmobile/" title="Oldsmobile">OLDSMOBILE</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/panoz.jpg" alt=""><a href="https://neo-drive.com/panoz/" title="Panoz">PANOZ</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/plymouth.jpg" alt=""><a href="https://neo-drive.com/plymouth/" title="Plymouth">PLYMOUTH</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/pontiac.jpg" alt=""><a href="https://neo-drive.com/pontiac/" title="Pontiac">PONTIAC</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/porsche.jpg" alt=""><a href="https://neo-drive.com/porsche/" title="Porsche">PORSCHE</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/ram.jpg" alt=""><a href="https://neo-drive.com/ram/" title="Ram">RAM</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/rolls-royce.jpg" alt=""><a href="https://neo-drive.com/rolls-royce/" title="Rolls-Royce">ROLLS-ROYCE</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/saab.jpg" alt=""><a href="https://neo-drive.com/saab/" title="Saab">SAAB</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/saturn.jpg" alt=""><a href="https://neo-drive.com/saturn/" title="Saturn">SATURN</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/scion.jpg" alt=""><a href="https://neo-drive.com/scion/" title="Scion">SCION</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/smart.jpg" alt=""><a href="https://neo-drive.com/smart/" title="smart">SMART</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/spyker.jpg" alt=""><a href="https://neo-drive.com/spyker/" title="Spyker">SPYKER</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/subaru.jpg" alt=""><a href="https://neo-drive.com/subaru/" title="Subaru">SUBARU</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/suzuki.jpg" alt=""><a href="https://neo-drive.com/suzuki/" title="Suzuki">SUZUKI</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/tesla.jpg" alt=""><a href="https://neo-drive.com/tesla/" title="Tesla">TESLA</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/toyota.jpg" alt=""><a href="https://neo-drive.com/toyota/" title="Toyota">TOYOTA</a></td>
+								<td class="td1"><img src="https://neo-drive.com/files/icons/brands/volkswagen.jpg" alt=""><a href="https://neo-drive.com/volkswagen/" title="Volkswagen">VOLKSWAGEN</a></td>
+			</tr><tr>					<td class="td1"><img src="https://neo-drive.com/files/icons/brands/volvo.jpg" alt=""><a href="https://neo-drive.com/volvo/" title="Volvo">VOLVO</a></td>
+							</tr>
+	</table>
+</div>
+ -->
+ <div class="headline"><span></span><h2>makes</h2></div>
+      <div class="foot_slider">
+      	<div class="flexslider carousel">
+      	<ul class="slides">
+      		<li>
+               <ul class="brands_list list_coll">
+      	      			<li><a href="acura/" title="">Acura</a></li>
+      		      			<li><a href="alfa-romeo/" title="">Alfa Romeo</a></li>
+      		      			<li><a href="am-general/" title="">AM General</a></li>
+      		      			<li><a href="aston-martin/" title="">Aston Martin</a></li>
+      		      			<li><a href="audi/" title="">Audi</a></li>
+      		      			<li><a href="bentley/" title="">Bentley</a></li>
+      		      			<li><a href="bmw/" title="">BMW</a></li>
+      		      			<li><a href="bugatti/" title="">Bugatti</a></li>
+      		      			<li><a href="buick/" title="">Buick</a></li>
+      		      			<li><a href="cadillac/" title="">Cadillac</a></li>
+      		      			<li><a href="chevrolet/" title="">Chevrolet</a></li>
+      		      			<li><a href="chrysler/" title="">Chrysler</a></li>
+      		      			<li><a href="daewoo/" title="">Daewoo</a></li>
+      		      			<li><a href="dodge/" title="">Dodge</a></li>
+      		      			<li><a href="eagle/" title="">Eagle</a></li>
+      		      			<li><a href="ferrari/" title="">Ferrari</a></li>
+      		      			<li><a href="fiat/" title="">FIAT</a></li>
+      		      			<li><a href="fisker/" title="">Fisker</a></li>
+      		      			<li><a href="ford/" title="">Ford</a></li>
+      		      			<li><a href="geo/" title="">Geo</a></li>
+      		      			<li><a href="gmc/" title="">GMC</a></li>
+      		      			<li><a href="honda/" title="">Honda</a></li>
+      		      			<li><a href="hummer/" title="">HUMMER</a></li>
+      		      			<li><a href="hyundai/" title="">Hyundai</a></li>
+      		      			<li><a href="infiniti/" title="">Infiniti</a></li>
+      		      			<li><a href="isuzu/" title="">Isuzu</a></li>
+      		      			<li><a href="jaguar/" title="">Jaguar</a></li>
+      		      			<li><a href="jeep/" title="">Jeep</a></li>
+      		      			<li><a href="kia/" title="">Kia</a></li>
+      		      			<li><a href="lamborghini/" title="">Lamborghini</a></li>
+      		      			<li><a href="land-rover/" title="">Land Rover</a></li>
+      		      			<li><a href="lexus/" title="">Lexus</a></li>
+      		      			<li><a href="lincoln/" title="">Lincoln</a></li>
+      		      			<li><a href="lotus/" title="">Lotus</a></li>
+      		      			<li><a href="maserati/" title="">Maserati</a></li>
+      		      			<li><a href="maybach/" title="">Maybach</a></li>
+      		      			<li><a href="mazda/" title="">Mazda</a></li>
+      		      			<li><a href="mclaren/" title="">McLaren</a></li>
+      		      			<li><a href="mercedes-benz/" title="">Mercedes-Benz</a></li>
+      		      			<li><a href="mercury/" title="">Mercury</a></li>
+      		      			<li><a href="mini/" title="">MINI</a></li>
+      		      			<li><a href="mitsubishi/" title="">Mitsubishi</a></li>
+      		      			</ul> 
+             </li>
+             <li>
+               <ul class="brands_list list_coll">
+            			<li><a href="nissan/" title="">Nissan</a></li>
+      		      			<li><a href="oldsmobile/" title="">Oldsmobile</a></li>
+      		      			<li><a href="panoz/" title="">Panoz</a></li>
+      		      			<li><a href="plymouth/" title="">Plymouth</a></li>
+      		      			<li><a href="pontiac/" title="">Pontiac</a></li>
+      		      			<li><a href="porsche/" title="">Porsche</a></li>
+      		      			<li><a href="ram/" title="">Ram</a></li>
+      		      			<li><a href="rolls-royce/" title="">Rolls-Royce</a></li>
+      		      			<li><a href="saab/" title="">Saab</a></li>
+      		      			<li><a href="saturn/" title="">Saturn</a></li>
+      		      			<li><a href="scion/" title="">Scion</a></li>
+      		      			<li><a href="smart/" title="">smart</a></li>
+      		      			<li><a href="spyker/" title="">Spyker</a></li>
+      		      			<li><a href="subaru/" title="">Subaru</a></li>
+      		      			<li><a href="suzuki/" title="">Suzuki</a></li>
+      		      			<li><a href="tesla/" title="">Tesla</a></li>
+      		      			<li><a href="toyota/" title="">Toyota</a></li>
+      		      			<li><a href="volkswagen/" title="">Volkswagen</a></li>
+      		      			<li><a href="volvo/" title="">Volvo</a></li>
+      		          	 </ul> 
+            </li>
+          </ul>
+        </div>
+      </div>    </div>
+  </div>
+  <div class="foot_bottom">
+  	<div class="wrap">
+<!--    	<p class="copy">fim-rally2017.com 2024</p>-->
+     <p class="copy">2024</p>
+      <ul class="foot_nav">
+      	<li><a href="contacts/" title="">Contacts</a>
+        <li><a href="html/about_us/" title="">About Us</a>
+        <li><a href="html/terms/" title="">Terms</a>
+        <li><a href="html/privacy/" title="">Privacy Policy</a>
+      </ul>
+      <div class="social_icons">
+<!--      	<a href="#" title="" class="s1"></a>-->
+<!--        <a href="#" title="" class="s2"></a>-->
+<!--        <a href="#" title="" class="s3"></a>-->
+<!--        <a href="#" title="" class="s4"></a>-->
+<!--        <a href="#" title="" class="s5"></a>-->
+<!--        <a href="#" title="" class="s6"></a>-->
+      </div>
+      <div class="clearing"></div>
+    </div>
+  </div>
+</footer>
+<!-- /footer -->
+<script>
+	$(document).ready(function(){
+		function getCookie(name) {
+		  let matches = document.cookie.match(new RegExp(
+			"(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+		  ));
+		  return matches ? decodeURIComponent(matches[1]) : undefined;
+		}
+		$(".cookieAccept .btn").on('click',function(){
+			$(".cookieAccept").hide();
+		});
+		if(getCookie('cookie')==undefined){
+			$(".cookieAccept").show();
+			document.cookie = "cookie=accepted; max-age="+60*60*24*30*12;
+		}
+	});
+</script>
+<script type="text/javascript" src="files/js/jquery.flexslider.js"></script>
+<script type="text/javascript" src="files/js/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="files/js/jcarousel.connected-carousels.js"></script>
+<script type="text/javascript" src="files/js/scroll_top.js"></script>
+<!-- <script type="text/javascript" src="https://neo-drive.com/files/js/cusel.js"></script> -->
+<script type="text/javascript" src="files/js/cusel-fixed-min-2.5.js"></script>
+<script type="text/javascript" src="files/js/jquery.parallaxSlider.js"></script>
+<script type="text/javascript" src="files/js/scripts.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+    var easing = 'swing';
+      $("#slider").parallaxSlider({
+        autoPlay:5000,//false to disable, otherwise int duration in ms hold between slides
+        speed:500, //transition duration between slides
+        easing: 'swing',
+        numBackgrounds: 0,
+        thumbRotation:false
+      });
+		$('.foot_slider .flexslider').flexslider({
+			animation: "slide",
+			animationLoop: false,
+			controlNav: true,
+			directionNav: false,
+			slideshow: false,
+			itemWidth: 980,
+			itemMargin: 0,
+			minItems: 1,
+			maxItems: 1,
+			start: function(slider){
+				$('body').removeClass('loading');
+			}
+		});
+//		setTimeout(function(){
+//			$('.carousel').jcarousel({});
+//			$('.carousel').jcarouselAutoscroll({
+//				interval: 2000
+//			});
+//		},5000);
+	});
+</script>
+<div class="cookieAccept">
+	<span class="btn btn-success float-right">OK</span>
+	<h4>This site uses cookies</h4>
+	<p>We - and our partners - use cookies to deliver our services and to show you ads based on your interests. Information about cookies and their deactivation you can find in our Privacy Policy. By using our website, you agree to the use of cookies.</p>
+</div>
+<style>
+	.cookieAccept {
+		display: none;
+		padding: 10px 30px;
+		background-color: #eee;
+		border: 1px solid #333;
+		position: fixed;
+		bottom: 0;
+		right: 0;
+		left: 0;
+		font-size: 13px;
+	}
+	.btn {
+		display:inline-block;
+		font-weight:400;
+		text-align:center;
+		white-space:nowrap;
+		vertical-align:middle;
+		-webkit-user-select:none;
+		-moz-user-select:none;
+		-ms-user-select:none;
+		user-select:none;
+		border:1px solid transparent;
+		padding:.375rem .75rem;
+		font-size:1rem;
+		line-height:1.5;
+		border-radius:.25rem;
+		transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out
+	}
+	.btn:focus,.btn:hover{
+		text-decoration:none
+	}
+	.btn.focus,.btn:focus{
+		outline:0;
+		box-shadow:0 0 0 .2rem rgba(0,123,255,.25)
+	}
+	.float-right {
+		float: right;
+	}
+	.btn-success{
+		color:#fff;
+		background-color:#28a745;
+		border-color:#28a745
+	}
+	.btn-success:hover{
+		color:#fff;
+		background-color:#218838;
+		border-color:#1e7e34
+	}
+	.btn-success.focus,.btn-success:focus{
+		box-shadow:0 0 0 .2rem rgba(40,167,69,.5)
+	}
+</style>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "metrika/tag.js", "ym");
+   ym(56413966, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="watch/56413966.jpg" style="position:absolute; left:-9999px;" alt=""/></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-143329885-2');
+</script>
+<img style="display:none;" src="s_ref--uri-/-t-1728503572-.gif"/></body>
+</html>

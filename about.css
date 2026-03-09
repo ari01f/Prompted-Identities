@@ -1,0 +1,231 @@
+/* ===== About page — standalone ===== */
+
+@font-face {
+  font-family: "GarabosseParagon";
+  src: url("font/garabosse/Garabosse-Parangon.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "GarabosseParagon", serif;
+  background: #fff;
+  color: #000;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------- Fixed header (top-left) ---------- */
+.about-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  padding: 20px 24px;
+  background-color: #fff;
+}
+
+.about-header__title {
+  font-family: "GarabosseParagon", serif;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 1;
+  color: #000000;
+}
+
+.about-header__title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.about-header__subtitle {
+  font-family: "GarabosseParagon", serif;
+  font-size: 16px;
+  line-height: 1.2;
+  margin-top: 4px;
+  color: #000000;
+}
+
+/* ---------- Central text block (legacy, hidden) ---------- */
+.about-center {
+  display: none;
+}
+
+/* ---------- Scroll sections ---------- */
+.about-scroll {
+  position: relative;
+  z-index: 10;
+}
+
+.about-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 24px;
+  box-sizing: border-box;
+}
+
+.about-section__card {
+  width: 92%;
+  max-width: 630px;
+  text-align: center;
+  padding: 36px 44px;
+  background: white;
+  pointer-events: none;
+}
+
+.about-section__text {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+}
+
+.about-section__prompt {
+  margin-top: 18px;
+  font-family: monospace;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.5);
+  letter-spacing: 0.02em;
+}
+
+/* ---------- Fullscreen image grid ---------- */
+.about-grid {
+  --cols: 14;
+  --cell-size: calc(100vw / var(--cols));
+
+  position: fixed;
+  inset: 0;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: repeat(var(--cols), var(--cell-size));
+  grid-auto-rows: var(--cell-size);
+  gap: 0;
+  overflow: hidden;
+  pointer-events: none;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+  transform-origin: center center;
+}
+
+.about-grid-cell {
+  width: var(--cell-size);
+  height: var(--cell-size);
+  overflow: hidden;
+}
+
+.about-grid-cell img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 0.7s ease;
+}
+
+.about-grid-cell img.is-loaded {
+  opacity: 1;
+}
+
+/* ---------- LAION caption overlay ---------- */
+.about-grid-caption {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-end;
+  padding: 4px;
+  font-family: monospace;
+  font-weight: 800;
+  font-size: 10px;
+  line-height: 1.2;
+  color: red;
+
+  opacity: 0;
+  transition: opacity 0.5s ease;
+  pointer-events: none;
+  overflow: hidden;
+  word-break: break-word;
+}
+.about-grid-caption span {
+  background: white;
+  padding: 1px 3px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+.about-grid-caption.is-visible {
+  opacity: 1;
+}
+
+.about-grid-cell {
+  position: relative;
+}
+
+/* Translucent overlay above grid, below text */
+.about-grid-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* ---------- Zoom-out & transition states ---------- */
+.about-grid {
+  transition: opacity 0.4s ease;
+}
+
+.about-grid.is-zooming-out {
+  opacity: 1;
+  will-change: transform;
+}
+
+/* Dense mode: skip per-image fade for performance during zoom-out */
+.about-grid.is-dense img {
+  transition: none !important;
+}
+
+.about-grid.is-transitioning {
+  opacity: 0.35;
+  transition: opacity 0.5s ease;
+}
+
+/* ---------- Back link ---------- */
+.about-back {
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 100;
+  font-size: 12px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  border: 1px solid rgb(0, 0, 0);
+  padding: 5px 10px;
+  background: white;
+}
+
+/* ---------- Exit overlay (transition to index.html) ---------- */
+.about-exit-overlay {
+  position: fixed;
+  inset: 0;
+  background: #ffffff;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 9999;
+  transition: opacity 0.8s ease;
+}
+
+.about-exit-overlay.is-active {
+  opacity: 1;
+  pointer-events: all;
+}

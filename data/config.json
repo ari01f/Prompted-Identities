@@ -1,0 +1,59 @@
+{
+  "project": { "name": "SDXL Base 1" },
+  "style": {
+    "fontColorActive": "#ffffff",
+    "fontBackground": "#2563eb",
+    "textShadow": "none",
+    "timelineBackground": "#f3f4f6",
+    "timelineFontColor": "#1f2937",
+    "fontColor": "#1f2937",
+    "infoBackground": "#ffffff",
+    "infoFontColor": "#1f2937",
+    "detailBackground": "#ffffff",
+    "searchbarBackground": "#f3f4f6",
+    "canvasBackground": "#ffffff"
+  },
+  "projection": {
+    "columns": 4
+  },
+  "loader": {
+    "layouts": [
+      {
+        "title": "Professions",
+        "type": "group",
+        "groupKey": "_profession",
+        "columns": 4
+      },
+      {
+        "title": "Image grid",
+        "type": "group",
+        "groupKey": "_model",
+        "columns": 50
+      },
+  { "title": "UMAP", "url": "data/sdxl_base_1/umap.csv", "scale": 0.1}
+
+    ],
+    "items": "data/sdxl_base_1/data.csv",
+    "info": "data/sdxl_base_1/info.md",
+    "textures": {
+      "medium": {
+        "url": "data/sdxl_base_1/sprites/spritesheet.json",
+        "size": 128
+      },
+      "detail": {
+        "url": "data/sdxl_base_1/1024/",
+        "size": 1024
+      }
+    }
+  },
+  "detail": {
+    "columns": ["id", "_profession", "keywords", "_gender", "_dominant_race", "_dominant_emotion", "year"],
+    "structure": [
+      { "source": "_profession", "type": "text", "title": "Profession", "display": "column" },
+      { "source": "keywords", "type": "keywords", "title": "Keywords", "display": "column" },
+      { "source": "_gender", "type": "text", "title": "Gender", "display": "column" },
+      { "source": "_dominant_race", "type": "text", "title": "Ethnicity", "display": "column" },
+      { "source": "_dominant_emotion", "type": "text", "title": "Emotion", "display": "column" }
+    ]
+  }
+}

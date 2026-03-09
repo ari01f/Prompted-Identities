@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About — AI Image Explorer</title>
+  <link rel="stylesheet" href="about.css" />
+</head>
+<body>
+
+  <!-- Fixed header (top-left) -->
+  <header class="about-header">
+    <div class="about-header__title"><a href="index.html">AI Image Explorer</a></div>
+  </header>
+
+  <!-- Fullscreen image grid (behind everything) -->
+  <div id="aboutGrid" class="about-grid"></div>
+  <div class="about-grid-overlay"></div>
+
+  <!-- Central text block -->
+  <div class="about-center">
+    <p class="about-center__text" id="aboutText"></p>
+    <p class="about-center__prompt" id="aboutPrompt"></p>
+  </div>
+
+  <!-- Scroll sections (filled by JS) -->
+  <div class="about-scroll" id="aboutScroll"></div>
+
+  <!-- Back link -->
+  <a class="about-back" href="index.html">Skip the explanation</a>
+
+  <script src="about.js"></script>
+</body>
+</html>

@@ -1,0 +1,1342 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+	<link rel="preload" as="image" href="https://thehoopdoctors.com/wp-content/uploads/2025/11/cadepower-1000x400.jpg" type="image/webp">
+<script data-cfasync="false" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5289539691954067"
+     crossorigin="anonymous"></script>
+<meta name="google-site-verification" content="SZTjwO3opclfACpJ7y_TPPK1TT5_GBBjylo2fVGhD-c" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+<link rel="alternate" type="application/rss+xml" title="The Hoop Doctors RSS Feed" href="https://thehoopdoctors.com/feed/" />
+
+<link rel="shortcut icon" href="https://thehoopdoctors.com/wp-content/uploads/2012/10/hoopfav.png" />
+<script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var ewww_webp_supported=!1;function check_webp_feature(A,e){var w;e=void 0!==e?e:function(){},ewww_webp_supported?e(ewww_webp_supported):((w=new Image).onload=function(){ewww_webp_supported=0<w.width&&0<w.height,e&&e(ewww_webp_supported)},w.onerror=function(){e&&e(!1)},w.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA=="}[A])}check_webp_feature("alpha");</script><script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var Arrive=function(c,w){"use strict";if(c.MutationObserver&&"undefined"!=typeof HTMLElement){var r,a=0,u=(r=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector,{matchesSelector:function(e,t){return e instanceof HTMLElement&&r.call(e,t)},addMethod:function(e,t,r){var a=e[t];e[t]=function(){return r.length==arguments.length?r.apply(this,arguments):"function"==typeof a?a.apply(this,arguments):void 0}},callCallbacks:function(e,t){t&&t.options.onceOnly&&1==t.firedElems.length&&(e=[e[0]]);for(var r,a=0;r=e[a];a++)r&&r.callback&&r.callback.call(r.elem,r.elem);t&&t.options.onceOnly&&1==t.firedElems.length&&t.me.unbindEventWithSelectorAndCallback.call(t.target,t.selector,t.callback)},checkChildNodesRecursively:function(e,t,r,a){for(var i,n=0;i=e[n];n++)r(i,t,a)&&a.push({callback:t.callback,elem:i}),0<i.childNodes.length&&u.checkChildNodesRecursively(i.childNodes,t,r,a)},mergeArrays:function(e,t){var r,a={};for(r in e)e.hasOwnProperty(r)&&(a[r]=e[r]);for(r in t)t.hasOwnProperty(r)&&(a[r]=t[r]);return a},toElementsArray:function(e){return e=void 0!==e&&("number"!=typeof e.length||e===c)?[e]:e}}),e=(l.prototype.addEvent=function(e,t,r,a){a={target:e,selector:t,options:r,callback:a,firedElems:[]};return this._beforeAdding&&this._beforeAdding(a),this._eventsBucket.push(a),a},l.prototype.removeEvent=function(e){for(var t,r=this._eventsBucket.length-1;t=this._eventsBucket[r];r--)e(t)&&(this._beforeRemoving&&this._beforeRemoving(t),(t=this._eventsBucket.splice(r,1))&&t.length&&(t[0].callback=null))},l.prototype.beforeAdding=function(e){this._beforeAdding=e},l.prototype.beforeRemoving=function(e){this._beforeRemoving=e},l),t=function(i,n){var o=new e,l=this,s={fireOnAttributesModification:!1};return o.beforeAdding(function(t){var e=t.target;e!==c.document&&e!==c||(e=document.getElementsByTagName("html")[0]);var r=new MutationObserver(function(e){n.call(this,e,t)}),a=i(t.options);r.observe(e,a),t.observer=r,t.me=l}),o.beforeRemoving(function(e){e.observer.disconnect()}),this.bindEvent=function(e,t,r){t=u.mergeArrays(s,t);for(var a=u.toElementsArray(this),i=0;i<a.length;i++)o.addEvent(a[i],e,t,r)},this.unbindEvent=function(){var r=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<r.length;t++)if(this===w||e.target===r[t])return!0;return!1})},this.unbindEventWithSelectorOrCallback=function(r){var a=u.toElementsArray(this),i=r,e="function"==typeof r?function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.callback===i)return!0;return!1}:function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.selector===r)return!0;return!1};o.removeEvent(e)},this.unbindEventWithSelectorAndCallback=function(r,a){var i=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<i.length;t++)if((this===w||e.target===i[t])&&e.selector===r&&e.callback===a)return!0;return!1})},this},i=new function(){var s={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};function n(e,t,r){return!(!u.matchesSelector(e,t.selector)||(e._id===w&&(e._id=a++),-1!=t.firedElems.indexOf(e._id)))&&(t.firedElems.push(e._id),!0)}var c=(i=new t(function(e){var t={attributes:!1,childList:!0,subtree:!0};return e.fireOnAttributesModification&&(t.attributes=!0),t},function(e,i){e.forEach(function(e){var t=e.addedNodes,r=e.target,a=[];null!==t&&0<t.length?u.checkChildNodesRecursively(t,i,n,a):"attributes"===e.type&&n(r,i)&&a.push({callback:i.callback,elem:r}),u.callCallbacks(a,i)})})).bindEvent;return i.bindEvent=function(e,t,r){t=void 0===r?(r=t,s):u.mergeArrays(s,t);var a=u.toElementsArray(this);if(t.existing){for(var i=[],n=0;n<a.length;n++)for(var o=a[n].querySelectorAll(e),l=0;l<o.length;l++)i.push({callback:r,elem:o[l]});if(t.onceOnly&&i.length)return r.call(i[0].elem,i[0].elem);setTimeout(u.callCallbacks,1,i)}c.call(this,e,t,r)},i},o=new function(){var a={};function i(e,t){return u.matchesSelector(e,t.selector)}var n=(o=new t(function(){return{childList:!0,subtree:!0}},function(e,r){e.forEach(function(e){var t=e.removedNodes,e=[];null!==t&&0<t.length&&u.checkChildNodesRecursively(t,r,i,e),u.callCallbacks(e,r)})})).bindEvent;return o.bindEvent=function(e,t,r){t=void 0===r?(r=t,a):u.mergeArrays(a,t),n.call(this,e,t,r)},o};d(HTMLElement.prototype),d(NodeList.prototype),d(HTMLCollection.prototype),d(HTMLDocument.prototype),d(Window.prototype);var n={};return s(i,n,"unbindAllArrive"),s(o,n,"unbindAllLeave"),n}function l(){this._eventsBucket=[],this._beforeAdding=null,this._beforeRemoving=null}function s(e,t,r){u.addMethod(t,r,e.unbindEvent),u.addMethod(t,r,e.unbindEventWithSelectorOrCallback),u.addMethod(t,r,e.unbindEventWithSelectorAndCallback)}function d(e){e.arrive=i.bindEvent,s(i,e,"unbindArrive"),e.leave=o.bindEvent,s(o,e,"unbindLeave")}}(window,void 0),ewww_webp_supported=!1;function check_webp_feature(e,t){var r;ewww_webp_supported?t(ewww_webp_supported):((r=new Image).onload=function(){ewww_webp_supported=0<r.width&&0<r.height,t(ewww_webp_supported)},r.onerror=function(){t(!1)},r.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA==",animation:"UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA"}[e])}function ewwwLoadImages(e){if(e){for(var t=document.querySelectorAll(".batch-image img, .image-wrapper a, .ngg-pro-masonry-item a, .ngg-galleria-offscreen-seo-wrapper a"),r=0,a=t.length;r<a;r++)ewwwAttr(t[r],"data-src",t[r].getAttribute("data-webp")),ewwwAttr(t[r],"data-thumbnail",t[r].getAttribute("data-webp-thumbnail"));for(var i=document.querySelectorAll("div.woocommerce-product-gallery__image"),r=0,a=i.length;r<a;r++)ewwwAttr(i[r],"data-thumb",i[r].getAttribute("data-webp-thumb"))}for(var n=document.querySelectorAll("video"),r=0,a=n.length;r<a;r++)ewwwAttr(n[r],"poster",e?n[r].getAttribute("data-poster-webp"):n[r].getAttribute("data-poster-image"));for(var o,l=document.querySelectorAll("img.ewww_webp_lazy_load"),r=0,a=l.length;r<a;r++)e&&(ewwwAttr(l[r],"data-lazy-srcset",l[r].getAttribute("data-lazy-srcset-webp")),ewwwAttr(l[r],"data-srcset",l[r].getAttribute("data-srcset-webp")),ewwwAttr(l[r],"data-lazy-src",l[r].getAttribute("data-lazy-src-webp")),ewwwAttr(l[r],"data-src",l[r].getAttribute("data-src-webp")),ewwwAttr(l[r],"data-orig-file",l[r].getAttribute("data-webp-orig-file")),ewwwAttr(l[r],"data-medium-file",l[r].getAttribute("data-webp-medium-file")),ewwwAttr(l[r],"data-large-file",l[r].getAttribute("data-webp-large-file")),null!=(o=l[r].getAttribute("srcset"))&&!1!==o&&o.includes("R0lGOD")&&ewwwAttr(l[r],"src",l[r].getAttribute("data-lazy-src-webp"))),l[r].className=l[r].className.replace(/\bewww_webp_lazy_load\b/,"");for(var s=document.querySelectorAll(".ewww_webp"),r=0,a=s.length;r<a;r++)e?(ewwwAttr(s[r],"srcset",s[r].getAttribute("data-srcset-webp")),ewwwAttr(s[r],"src",s[r].getAttribute("data-src-webp")),ewwwAttr(s[r],"data-orig-file",s[r].getAttribute("data-webp-orig-file")),ewwwAttr(s[r],"data-medium-file",s[r].getAttribute("data-webp-medium-file")),ewwwAttr(s[r],"data-large-file",s[r].getAttribute("data-webp-large-file")),ewwwAttr(s[r],"data-large_image",s[r].getAttribute("data-webp-large_image")),ewwwAttr(s[r],"data-src",s[r].getAttribute("data-webp-src"))):(ewwwAttr(s[r],"srcset",s[r].getAttribute("data-srcset-img")),ewwwAttr(s[r],"src",s[r].getAttribute("data-src-img"))),s[r].className=s[r].className.replace(/\bewww_webp\b/,"ewww_webp_loaded");window.jQuery&&jQuery.fn.isotope&&jQuery.fn.imagesLoaded&&(jQuery(".fusion-posts-container-infinite").imagesLoaded(function(){jQuery(".fusion-posts-container-infinite").hasClass("isotope")&&jQuery(".fusion-posts-container-infinite").isotope()}),jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").imagesLoaded(function(){jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").isotope()}))}function ewwwWebPInit(e){ewwwLoadImages(e),ewwwNggLoadGalleries(e),document.arrive(".ewww_webp",function(){ewwwLoadImages(e)}),document.arrive(".ewww_webp_lazy_load",function(){ewwwLoadImages(e)}),document.arrive("videos",function(){ewwwLoadImages(e)}),"loading"==document.readyState?document.addEventListener("DOMContentLoaded",ewwwJSONParserInit):("undefined"!=typeof galleries&&ewwwNggParseGalleries(e),ewwwWooParseVariations(e))}function ewwwAttr(e,t,r){null!=r&&!1!==r&&e.setAttribute(t,r)}function ewwwJSONParserInit(){"undefined"!=typeof galleries&&check_webp_feature("alpha",ewwwNggParseGalleries),check_webp_feature("alpha",ewwwWooParseVariations)}function ewwwWooParseVariations(e){if(e)for(var t=document.querySelectorAll("form.variations_form"),r=0,a=t.length;r<a;r++){var i=t[r].getAttribute("data-product_variations"),n=!1;try{for(var o in i=JSON.parse(i))void 0!==i[o]&&void 0!==i[o].image&&(void 0!==i[o].image.src_webp&&(i[o].image.src=i[o].image.src_webp,n=!0),void 0!==i[o].image.srcset_webp&&(i[o].image.srcset=i[o].image.srcset_webp,n=!0),void 0!==i[o].image.full_src_webp&&(i[o].image.full_src=i[o].image.full_src_webp,n=!0),void 0!==i[o].image.gallery_thumbnail_src_webp&&(i[o].image.gallery_thumbnail_src=i[o].image.gallery_thumbnail_src_webp,n=!0),void 0!==i[o].image.thumb_src_webp&&(i[o].image.thumb_src=i[o].image.thumb_src_webp,n=!0));n&&ewwwAttr(t[r],"data-product_variations",JSON.stringify(i))}catch(e){}}}function ewwwNggParseGalleries(e){if(e)for(var t in galleries){var r=galleries[t];galleries[t].images_list=ewwwNggParseImageList(r.images_list)}}function ewwwNggLoadGalleries(e){e&&document.addEventListener("ngg.galleria.themeadded",function(e,t){window.ngg_galleria._create_backup=window.ngg_galleria.create,window.ngg_galleria.create=function(e,t){var r=$(e).data("id");return galleries["gallery_"+r].images_list=ewwwNggParseImageList(galleries["gallery_"+r].images_list),window.ngg_galleria._create_backup(e,t)}})}function ewwwNggParseImageList(e){for(var t in e){var r=e[t];if(void 0!==r["image-webp"]&&(e[t].image=r["image-webp"],delete e[t]["image-webp"]),void 0!==r["thumb-webp"]&&(e[t].thumb=r["thumb-webp"],delete e[t]["thumb-webp"]),void 0!==r.full_image_webp&&(e[t].full_image=r.full_image_webp,delete e[t].full_image_webp),void 0!==r.srcsets)for(var a in r.srcsets)nggSrcset=r.srcsets[a],void 0!==r.srcsets[a+"-webp"]&&(e[t].srcsets[a]=r.srcsets[a+"-webp"],delete e[t].srcsets[a+"-webp"]);if(void 0!==r.full_srcsets)for(var i in r.full_srcsets)nggFSrcset=r.full_srcsets[i],void 0!==r.full_srcsets[i+"-webp"]&&(e[t].full_srcsets[i]=r.full_srcsets[i+"-webp"],delete e[t].full_srcsets[i+"-webp"])}return e}check_webp_feature("alpha",ewwwWebPInit);</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="preload" href="https://thehoopdoctors.com/wp-content/themes/Backstreet/fonts/patua-one.woff2" as="font" type="font/woff2" crossorigin>
+	<!-- This site is optimized with the Yoast SEO plugin v27.1.1 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>The Hoop Doctors - NBA Basketball News, Rumors, Videos</title>
+	<meta name="description" content="NBA Basketball News, Rumors, Videos" />
+	<link rel="canonical" href="https://thehoopdoctors.com/" />
+	<link rel="next" href="https://thehoopdoctors.com/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="The Hoop Doctors" />
+	<meta property="og:description" content="NBA Basketball News, Rumors, Videos" />
+	<meta property="og:url" content="https://thehoopdoctors.com/" />
+	<meta property="og:site_name" content="The Hoop Doctors" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://thehoopdoctors.com/","url":"https://thehoopdoctors.com/","name":"The Hoop Doctors - NBA Basketball News, Rumors, Videos","isPartOf":{"@id":"https://thehoopdoctors.com/#website"},"about":{"@id":"https://thehoopdoctors.com/#organization"},"description":"NBA Basketball News, Rumors, Videos","breadcrumb":{"@id":"https://thehoopdoctors.com/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://thehoopdoctors.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://thehoopdoctors.com/#website","url":"https://thehoopdoctors.com/","name":"The Hoop Doctors","description":"NBA Basketball News, Rumors, Videos","publisher":{"@id":"https://thehoopdoctors.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://thehoopdoctors.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://thehoopdoctors.com/#organization","name":"The Hoop Doctors","url":"https://thehoopdoctors.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://thehoopdoctors.com/#/schema/logo/image/","url":"https://thehoopdoctors.com/wp-content/uploads/2016/02/THDsquare.jpg","contentUrl":"https://thehoopdoctors.com/wp-content/uploads/2016/02/THDsquare.jpg","width":800,"height":800,"caption":"The Hoop Doctors"},"image":{"@id":"https://thehoopdoctors.com/#/schema/logo/image/"}}]}</script>
+	<meta name="google-site-verification" content="TqYqUEHEKIwXDMK9Sc1kldLW7JQcxfbVJYr-zbbnLlE" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//widgetlogic.org' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/thehoopdoctors.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='jscrollpane-css' href='https://thehoopdoctors.com/wp-content/plugins/wp-jscrollpane/css/jquery.jscrollpane.min.css?ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='customcolors-css' href='https://thehoopdoctors.com/wp-content/plugins/wp-jscrollpane/css/customcolors.css?ver=6.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ilc-tabs-widget-css-css' href='https://thehoopdoctors.com/wp-content/plugins/ilc-tabs-widget/ilc-tabs-widget.css?ver=6.8.3' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://thehoopdoctors.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='mediaelement-css' href='https://thehoopdoctors.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://thehoopdoctors.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.8.3' type='text/css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='block-widget-css' href='https://thehoopdoctors.com/wp-content/plugins/widget-logic/block_widget/css/widget.css?ver=1768241050' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://thehoopdoctors.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-standard-css-css' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css?ver=6.8.3' type='text/css' media='all' />
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/wp-jscrollpane/js/jquery.jscrollpane.min.js?ver=6.8.3" id="jscrollpane-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/wp-jscrollpane/js/wpjsp.js?ver=6.8.3" id="wpjsp-js"></script>
+<link rel="https://api.w.org/" href="https://thehoopdoctors.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://thehoopdoctors.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.textwidget p { padding:0px !important; margin:0; } 
+
+</style>
+<!-- end Simple Custom CSS and JS -->
+
+	<!-- begin gallery scripts -->
+    <link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/plugins/featured-content-gallery/css/jd.gallery.css.php" type="text/css" media="screen" charset="utf-8"/>
+	<link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/plugins/featured-content-gallery/css/jd.gallery.css" type="text/css" media="screen" charset="utf-8"/>
+	<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js"></script>
+	<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php"></script>
+	<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.transitions.js"></script>
+	<!-- end gallery scripts -->
+<style type="text/css">
+.ui-widget {
+font-family: inherit;
+font-size: inherit;
+}
+.ui-widget-content a {
+color:#CC6600;
+}
+.ui-widget-content{
+color:#CC6600;
+background: none !important;
+border: none !important;
+}
+.ui-tabs .ui-tabs-panel {
+padding: 17px 24px;
+background: #000000!important;
+height: 300px;
+overflow : auto;
+}
+
+.ui-state-highlight p, .ui-state-error p {
+line-height: 1em;
+}
+
+.ui-accordion .ui-accordion-content {
+padding: 0 1.4em;
+}
+
+.ui-widget-content p, .ui-widget p {
+margin: 1em 0;
+}
+
+.ui-helper-reset {
+line-height: inherit;
+}
+
+.ui-dialog-content {
+line-height: 1.3em;
+}
+
+/* Twenty Ten specific fix. */
+#content .ui-accordion h3 {
+margin: 0;
+}
+.ui-tabs .ui-tabs-nav li a {
+padding: 0 15px;
+}
+.ui-widget-header {
+bacground: url("http://thehoopdoctors.com/wp-content/themes/revolution_music-10/images/homesideHeaderNews.jpg") no-repeat scroll 50% 50% #CCCCCC !important;
+border: none !important;
+}
+
+</style>
+
+<!-- Start Of Script Generated By SEO Pagebar 2.0 -->
+<link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/plugins/seopagebar/seopagebar-css.css" type="text/css" media="screen" />
+<!-- End Of Script Generated By SEO Pagebar 2.0 -->
+	<style>img#wpstats{display:none}</style>
+		<link id='MediaRSS' rel='alternate' type='application/rss+xml' title='NextGEN Gallery RSS Feed' href='https://thehoopdoctors.com/wp-content/plugins/nextgen-gallery/src/Legacy/xml/media-rss.php' />
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.social-header ul li.vimeo a {
+	background: url(images/social-icons/vimeo.png) no-repeat scroll -3px -7px !important;
+}
+.nba-table-wrapper {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.nba-table-wrapper table {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.entry-content > *:first-child {
+  margin-top: 0 !important;
+}
+.aligncenter {
+  margin-bottom: 0 !important;
+  display: block;
+}
+
+.aligncenter + div {
+  margin-top: 0 !important;
+}
+
+.entry-content > *:first-child {
+  margin-top: 0 !important;
+}
+.single-content p > img.aligncenter {
+  display: block;
+  margin-bottom: 0 !important;
+}
+
+.single-content p {
+  margin-bottom: 0 !important;
+}
+
+		</style>
+		<!--Stylesheets-->
+<link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/themes/Backstreet/css/reset.css" type="text/css" />
+<link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/themes/Backstreet/css/text.css" type="text/css" />
+<link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/themes/Backstreet/css/960.css" type="text/css" />
+<link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/colorbox/colorbox.css" type="text/css" />
+<!-- <link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/themes/Backstreet/css/flexslider.css" type="text/css" /> -->
+
+<link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/themes/Backstreet/css/prettyPhoto.css" type="text/css" />
+<link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/themes/Backstreet/style.css" type="text/css" />
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+<!-- <link href="http://fonts.googleapis.com/css?family=Patua+One|Patua+One|" rel="stylesheet" type="text/css" /> -->
+
+
+
+
+<!--Jquery-->
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/jquery.easing.js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/new-swipe.js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/jquery.cycle.all.js"></script> 
+<!-- <script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/jquery.flexslider-min.js"></script> -->
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/jcarousellite_1.0.1.pack.js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/custom_js.js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/scrolltopcontrol.js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/jquery.li-scroller.1.0.js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/jquery.tweet.js"></script>
+
+
+<!--CSS Options-->
+<style type="text/css" media="screen">
+	body, .magazine-widget .block-small h3, .block-tabs .description h3, .magazine-widget .block-small-noimage h3, .related-post h6, .postForm textarea { font-family: 'Arial'; }
+	.picture_title a, .picture_counter, ul#filter a, ul.tabs-sidebar li a, ul.tabs li a, .postForm .submit, .nav-left, .nav-right, .button a, .pagination, .nivoSlider a, .nivo-caption .date-info, .nivo-caption a, .comment-submit, .title-social, .commenters, .widget-footer-title, .single-title h1, .comment-author .name, .author-title a, .content-title p, .bottomNav a, .title-404 span, h1, h2, h3, h4, h5, h6 {
+	font-family: 'Patua One';
+	}
+	.mainNav a, .bottomNav a { font-family: 'Patua One'; }
+    html {
+        background-color:#000000;
+		    }
+	 body {
+	 			background-color:transparent;
+		background-image:url('http://thehoopdoctors.com/wp-content/uploads/2012/09/woodbackthdcolor.jpg');
+		background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-position:center center;
+		
+    }
+
+	.topNav li  > ul li a:hover, .mainNav li  > ul li a:hover, .error_msg, readmore, a:hover, .single-content ul.tabs li a:hover, .single-content ul.tabs li a.active, h5.toggle a:hover, .flex-caption a:hover{
+	 	color:#cc7a00;
+	}
+	.tagcloud a:hover, .reply-comment:hover, .comment-submit:hover, .pagination a:hover, .pagination span.current, .postForm .submit:hover, ul#filter li.current a, ul#filter li a.current, ul#filter a:hover { background:#cc7a00; }
+	.postForm .error { border: 1px solid #cc7a00; }
+	.header { position:relative; height:70px; }
+	.top { background:#272625; }
+				.spotlight-title { background:#cc7a00 url('https://thehoopdoctors.com/wp-content/themes/Backstreet/images/side-title-spotlight.png') no-repeat right; }
+	
+</style>
+<link rel="stylesheet" href="https://thehoopdoctors.com/wp-content/themes/Backstreet/css/responsive4.css" type="text/css" />
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+var TableData = new Array();
+var Picks = new Array();    
+var Table = '#myTable';
+
+if (Table.length ) {
+jQuery('#myTable tr').each(function(row, tr){
+        		if (row == 1) {
+        Picks[0] = jQuery.trim(jQuery(tr).find('td:eq(2)').text());
+        Picks[1] = jQuery.trim(jQuery(tr).find('td:eq(3)').text());
+        Picks[2] = jQuery.trim(jQuery(tr).find('td:eq(4)').text());
+        }
+    TableData[row]={
+        "1st" : jQuery.trim(jQuery(tr).find('td:eq(2)').text())
+        , "2nd" :jQuery.trim(jQuery(tr).find('td:eq(3)').text())
+        , "3rd" : jQuery.trim(jQuery(tr).find('td:eq(4)').text())
+    }
+}); 
+
+TableData.shift();
+TableData.shift();
+TableData.sort();
+
+var First = [];
+var Second = [];
+var Third = [];
+var Fourth = [];
+
+
+for (var i = 0; i < TableData.length; i++) {
+    if (TableData[i]['1st'] == Picks[0]) {
+    First.push(TableData[i]['1st']);
+    }
+    if (TableData[i]['2nd'] == Picks[1]) {
+    Second.push(TableData[i]['2nd']);
+    }
+    if (TableData[i]['3rd'] == Picks[2]) {
+    Third.push(TableData[i]['3rd']);
+    }
+
+}
+
+var first = First.length;
+var total = TableData.length;
+var percent = first/total * 100;
+jQuery('.1st').text(First[0] + "\n" + "(" + Math.round(percent) + "%"+")");
+var second = Second.length;
+var percent = second/total * 100;
+jQuery('.2nd').text(Second[0] + "\n" + "(" + Math.round(percent) + "%"+")");
+var third = Third.length;
+var percent = third/total * 100;
+jQuery('.3rd').text(Third[0] + "\n" + "(" + Math.round(percent) + "%"+")");
+}
+});
+</script>
+
+<script type='text/javascript'>
+
+jQuery(window).load(function() {
+	
+	// PrettyPhoto
+	jQuery("a[rel^='prettyPhoto']").prettyPhoto({animation_speed:'fast',theme:'dark_rounded', autoplay_slideshow: false});
+
+});
+
+</script>
+
+
+<script type="text/javascript">
+	function reloadBanners(url) {
+
+		writeCaptureRefresh();
+		 _gaq.push(['_trackPageview', url + '?virtual_pageview']);
+
+
+
+	}
+
+</script>
+<link rel="preload" as="image" href="https://thehoopdoctors.com/wp-content/uploads/2012/09/thdsite1.png" type="image/png">
+</head>
+<body class="home blog wp-theme-Backstreet">
+<script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">if(typeof ewww_webp_supported==="undefined"){var ewww_webp_supported=!1}if(ewww_webp_supported){document.body.classList.add("webp-support")}</script>
+
+<div id="cmn_wrap">
+<!-- Begin Top -->
+
+<div class="top">
+	<div class="top-wrap">
+		<!-- Begin Top Navigation -->
+		<div class="top-nav-wrapper">
+					</div>
+		<!-- End Top Navigation -->
+				<!-- Begin Date -->
+		<div class="datetime">
+			Wednesday 04th March 2026, 			<span id="theTime"></span>
+		</div>
+		<!-- End Date -->
+			</div>
+</div>
+<!-- End Top -->
+
+
+<!-- Begin General -->
+	
+
+<div class="general">
+<!-- Begin Container -->
+<div class="container">
+	<!-- Begin Top Container 960 gs -->
+	<div class="header container_12">
+			<!-- Begin Logo Header -->
+			<div class="grid_4 logo-header">
+								<a href='https://thehoopdoctors.com'><img src="https://thehoopdoctors.com/wp-content/uploads/2012/09/thdsite1.png" alt="The Hoop Doctors" /></a>
+			</div>
+			<!-- End Logo Header -->
+			<!-- Begin Header Content -->
+			<div class="grid_8 prefix_4 header-content">
+								<!-- Begin Search Header -->
+				<div class="search-header">
+					<form method="get" id="search" action="https://thehoopdoctors.com/">
+						<div><input type="text" name="s" id="s" value="Search the site ..." onfocus='if (this.value == "Search the site ...") { this.value = ""; }' onblur='if (this.value == "") { this.value = "Search the site ..."; }' /></div>
+						<div><button type="submit" id="searchbutton">Go</button></div>
+					</form>
+				</div>
+				<!-- End Search Header -->
+				
+								<!-- Begin Social Header -->
+				<div class="social-header">
+					<ul>
+													<li class="rss"><a target="new" href="https://thehoopdoctors.com/feed/"></a></li>
+																			<li class="twitter"><a target="new" href="https://www.twitter.com/anklesnap"></a></li>
+																			<li class="facebook"><a target="new" href="https://www.facebook.com/TheHoopDoctors"></a></li>
+																			<li class="google"><a target="new" href="https://plus.google.com/+Thehoopdoctors4/"></a></li>
+																			<li class="vimeo"><a target="new" href="https://www.instagram.com/thehoopdoctors/"></a></li>
+																			<li class="youtube"><a target="new" href="https://www.youtube.com/thehoopdoctors"></a></li>
+																													</ul>
+				</div>
+				<!-- End Social Header -->
+							</div>
+			<!-- End Header Content -->
+	</div>
+	<!-- End Top Container 960 gs -->
+	<div class="container_12 mainnavmenu">
+		<!-- Begin Main Navigation -->
+		<div class="grid_12 main-nav-wrapper">
+
+			<div class="menu-topmenu-container"><ul id="menu-topmenu" class="mainNav"><li id="menu-item-84567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84567"><a href="https://thehoopdoctors.com/category/doctors/">Exclusives</a></li>
+<li id="menu-item-84609" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84609"><a href="https://thehoopdoctors.com/category/rumors/">Buzz</a></li>
+<li id="menu-item-192637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192637"><a href="https://thehoopdoctors.com/nba-player-salaries/">Salaries</a></li>
+<li id="menu-item-84578" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84578"><a href="https://thehoopdoctors.com/category/mock-draft/">NBA Draft</a>
+<ul class="sub-menu">
+	<li id="menu-item-126884" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126884"><a href="https://thehoopdoctors.com/2009/02/mock-draft/">Mock Draft Database</a></li>
+	<li id="menu-item-191956" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191956"><a href="https://thehoopdoctors.com/2025/05/2025-nba-mock-draft-thds-first-round/">Mock Draft 2025</a></li>
+</ul>
+</li>
+<li id="menu-item-84585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84585"><a href="https://thehoopdoctors.com/category/features/">Features</a>
+<ul class="sub-menu">
+	<li id="menu-item-112284" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112284"><a href="https://thehoopdoctors.com/category/features/nba-power-rankings/">Power Rankings</a></li>
+	<li id="menu-item-84588" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84588"><a href="https://thehoopdoctors.com/category/features/interviews/">Interviews</a></li>
+	<li id="menu-item-108321" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108321"><a href="https://thehoopdoctors.com/category/features/lists-features/">Lists</a></li>
+	<li id="menu-item-84589" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84589"><a href="https://thehoopdoctors.com/category/features/ncaa/">NCAA</a></li>
+	<li id="menu-item-84590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84590"><a href="https://thehoopdoctors.com/category/features/nextology/">Nextology of MJ</a></li>
+</ul>
+</li>
+<li id="menu-item-84595" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84595"><a href="https://thehoopdoctors.com/category/hoops-tv/">Hoops TV</a>
+<ul class="sub-menu">
+	<li id="menu-item-84596" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84596"><a href="https://thehoopdoctors.com/category/hoops-tv/highlights/">Highlights</a></li>
+	<li id="menu-item-84598" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84598"><a href="https://thehoopdoctors.com/category/hoops-tv/videos/">THD Videos</a></li>
+	<li id="menu-item-84608" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84608"><a href="https://thehoopdoctors.com/category/podcast/">Podcast</a></li>
+</ul>
+</li>
+<li id="menu-item-84599" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84599"><a href="https://thehoopdoctors.com/category/kicks/">Kicks</a>
+<ul class="sub-menu">
+	<li id="menu-item-152394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152394"><a href="http://thdkicks.com/">THD Kicks</a></li>
+	<li id="menu-item-84600" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84600"><a href="https://thehoopdoctors.com/category/kicks/exclusives/">Exclusives</a></li>
+	<li id="menu-item-84601" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84601"><a href="https://thehoopdoctors.com/category/kicks/official-releases/">Official Releases</a></li>
+	<li id="menu-item-84604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84604"><a href="https://thehoopdoctors.com/category/kicks/sneak-a-peek/">Sneak-a-Peek</a></li>
+	<li id="menu-item-84602" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84602"><a href="https://thehoopdoctors.com/category/kicks/pe-corner/">PE Corner</a></li>
+	<li id="menu-item-84603" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84603"><a href="https://thehoopdoctors.com/category/kicks/reviews/">Reviews</a></li>
+	<li id="menu-item-99783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99783"><a href="https://thehoopdoctors.com/category/kicks/gear/">Gear</a></li>
+	<li id="menu-item-84605" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84605"><a href="https://thehoopdoctors.com/category/kicks/starting-five/">Starting Five</a></li>
+</ul>
+</li>
+<li id="menu-item-84607" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84607"><a href="https://thehoopdoctors.com/category/offbeat/">Offbeat</a></li>
+</ul></div>		</div>
+
+		<!-- End Main Navigation -->
+	</div>
+	<div class="container_12 dropdownmenu">
+		<!-- Begin Main Navigation -->
+		<div class="grid_12">
+			<div class="responsive-menu-wrapper"><select id="menu-topmenu-1" class="menu dropdown-menu"><option value="" class="blank">&#8212; Main Menu &#8212;</option><option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84567 menu-item-depth-0" value="https://thehoopdoctors.com/category/doctors/">Exclusives</option>
+<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84609 menu-item-depth-0" value="https://thehoopdoctors.com/category/rumors/">Buzz</option>
+<option class="menu-item menu-item-type-post_type menu-item-object-page menu-item-192637 menu-item-depth-0" value="https://thehoopdoctors.com/nba-player-salaries/">Salaries</option>
+<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84578 menu-item-depth-0" value="https://thehoopdoctors.com/category/mock-draft/">NBA Draft</option>	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126884 menu-item-depth-1" value="http://thehoopdoctors.com/2009/02/mock-draft/">- Mock Draft Database</option>
+	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-191956 menu-item-depth-1" value="http://thehoopdoctors.com/2025/05/2025-nba-mock-draft-thds-first-round/">- Mock Draft 2025</option>
+
+<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84585 menu-item-depth-0" value="https://thehoopdoctors.com/category/features/">Features</option>	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-112284 menu-item-depth-1" value="https://thehoopdoctors.com/category/features/nba-power-rankings/">- Power Rankings</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84588 menu-item-depth-1" value="https://thehoopdoctors.com/category/features/interviews/">- Interviews</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108321 menu-item-depth-1" value="https://thehoopdoctors.com/category/features/lists-features/">- Lists</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84589 menu-item-depth-1" value="https://thehoopdoctors.com/category/features/ncaa/">- NCAA</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84590 menu-item-depth-1" value="https://thehoopdoctors.com/category/features/nextology/">- Nextology of MJ</option>
+
+<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84595 menu-item-depth-0" value="https://thehoopdoctors.com/category/hoops-tv/">Hoops TV</option>	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84596 menu-item-depth-1" value="https://thehoopdoctors.com/category/hoops-tv/highlights/">- Highlights</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84598 menu-item-depth-1" value="https://thehoopdoctors.com/category/hoops-tv/videos/">- THD Videos</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84608 menu-item-depth-1" value="https://thehoopdoctors.com/category/podcast/">- Podcast</option>
+
+<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-84599 menu-item-depth-0" value="https://thehoopdoctors.com/category/kicks/">Kicks</option>	<option class="menu-item menu-item-type-custom menu-item-object-custom menu-item-152394 menu-item-depth-1" value="http://thdkicks.com/">- THD Kicks</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84600 menu-item-depth-1" value="https://thehoopdoctors.com/category/kicks/exclusives/">- Exclusives</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84601 menu-item-depth-1" value="https://thehoopdoctors.com/category/kicks/official-releases/">- Official Releases</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84604 menu-item-depth-1" value="https://thehoopdoctors.com/category/kicks/sneak-a-peek/">- Sneak-a-Peek</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84602 menu-item-depth-1" value="https://thehoopdoctors.com/category/kicks/pe-corner/">- PE Corner</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84603 menu-item-depth-1" value="https://thehoopdoctors.com/category/kicks/reviews/">- Reviews</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-99783 menu-item-depth-1" value="https://thehoopdoctors.com/category/kicks/gear/">- Gear</option>
+	<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84605 menu-item-depth-1" value="https://thehoopdoctors.com/category/kicks/starting-five/">- Starting Five</option>
+
+<option class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-84607 menu-item-depth-0" value="https://thehoopdoctors.com/category/offbeat/">Offbeat</option>
+</select></div>		</div>
+
+		<!-- End Main Navigation -->
+	</div>
+
+
+
+	<div class="clear"></div>
+			<!-- Begin Spotlight -->
+		<div class="side-corner">
+			<div class="spotlight">
+												<h6 class="spotlight-title"><span><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" height="16" width="15" data-src-img="https://thehoopdoctors.com/wp-content/themes/Backstreet/images/star-spotlight.png" data-src-webp="https://thehoopdoctors.com/wp-content/themes/Backstreet/images/star-spotlight.png.webp" data-eio="j" class="ewww_webp" /><noscript><img src="https://thehoopdoctors.com/wp-content/themes/Backstreet/images/star-spotlight.png" height="16" width="15"/></noscript></span>Trending</h6>
+				<ul id="ticker">
+																	<li><a href='https://thehoopdoctors.com/2025/11/nba-power-rankings-pistons-are-red-hot/'>NBA Power Rankings:  Pistons are Red Hot! </a>
+						</li>
+																	<li><a href='https://thehoopdoctors.com/2025/11/michael-jordan-shows-why-hes-still-the-goat-with-a-massive-hometown-move-in-north-carolina/'>Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina </a>
+						</li>
+																	<li><a href='https://thehoopdoctors.com/2025/08/top-10-nba-rumors-week-of-august-12-2025/'>Top 10 NBA Rumors &#8211; Week of August 12, 2025 </a>
+						</li>
+																	<li><a href='https://thehoopdoctors.com/2025/07/why-the-dallas-mavericks-are-the-frontrunner-to-land-lebron-james/'>Why the Dallas Mavericks Are the Frontrunner to Land LeBron James </a>
+						</li>
+																	<li><a href='https://thehoopdoctors.com/2025/07/dylan-harper-outshines-cooper-flagg-in-summer-league-showdown/'>Dylan Harper Outshines Cooper Flagg in Summer League Showdown </a>
+						</li>
+									</ul>
+					
+			
+						
+				
+				
+							</div>
+		</div>
+		<!--End Spotlight -->
+						
+				<!-- Begin Lightweight Slider -->
+
+<div class="thd-slider thd-slider-full">
+    <div class="thd-slides">
+                    <div class="thd-slide">
+                <a href="https://thehoopdoctors.com/2025/11/nba-power-rankings-pistons-are-red-hot/">
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="NBA Power Rankings:  Pistons are Red Hot!" class="thd-slide-img ewww_webp" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/11/cadepower-1000x400.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/11/cadepower-1000x400.jpg.webp" data-eio="j" /><noscript><img src="https://thehoopdoctors.com/wp-content/uploads/2025/11/cadepower-1000x400.jpg" alt="NBA Power Rankings:  Pistons are Red Hot!" class="thd-slide-img" /></noscript>
+                    <div class="thd-caption">
+                        <h2>NBA Power Rankings:  Pistons are Red Hot!</h2>
+                        <p>With roughly a month of the 2025–26 season in the books, the preseason storylines have given way to on-court reality — and the NBA Power&hellip;</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="thd-slide">
+                <a href="https://thehoopdoctors.com/2025/11/michael-jordan-shows-why-hes-still-the-goat-with-a-massive-hometown-move-in-north-carolina/">
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina" class="thd-slide-img ewww_webp" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/11/jordanmoms-1000x400.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/11/jordanmoms-1000x400.jpg.webp" data-eio="j" /><noscript><img src="https://thehoopdoctors.com/wp-content/uploads/2025/11/jordanmoms-1000x400.jpg" alt="Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina" class="thd-slide-img" /></noscript>
+                    <div class="thd-caption">
+                        <h2>Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina</h2>
+                        <p>When we talk about greatness in basketball, one name still towers above all: Michael Jordan. But greatness isn’t just defined by six championships or unforgettable&hellip;</p>
+                    </div>
+                </a>
+            </div>
+                    <div class="thd-slide">
+                <a href="https://thehoopdoctors.com/2025/08/top-10-nba-rumors-week-of-august-12-2025/">
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Top 10 NBA Rumors &#8211; Week of August 12, 2025" class="thd-slide-img ewww_webp" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/08/traeyoung-1000x400.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/08/traeyoung-1000x400.jpg.webp" data-eio="j" /><noscript><img src="https://thehoopdoctors.com/wp-content/uploads/2025/08/traeyoung-1000x400.jpg" alt="Top 10 NBA Rumors &#8211; Week of August 12, 2025" class="thd-slide-img" /></noscript>
+                    <div class="thd-caption">
+                        <h2>Top 10 NBA Rumors &#8211; Week of August 12, 2025</h2>
+                        <p>With training camps inching closer and a few big-name situations still unsettled, the rumor mill is running hot. Below are the 10 storylines that dominated&hellip;</p>
+                    </div>
+                </a>
+            </div>
+            </div>
+    <div class="thd-dots"></div>
+</div>
+<!-- End Lightweight Slider -->
+
+						<div class="clear"></div>
+	<div class="clear"></div>
+	<!-- Begin Bottom Container 960 gs -->
+	<div class="container_12 wrapper">			<!-- Begin Content -->
+			<div class="content grid_8" >
+										<div class="clear"></div>
+								<!-- Begin Magazine Widget-->
+				<div class="magazine">
+					<div class="magazine-widget">
+<div class="grid_4 alpha widget-magazine half">
+    <div class="widget-line-title"><h3>Exclusives </h3></div>                    <div class="block-big">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/11/michael-jordan-shows-why-hes-still-the-goat-with-a-massive-hometown-move-in-north-carolina/" title="Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina">
+                    <img class="fadeover ewww_webp" alt="Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="150" loading="eager" decoding="async" fetchpriority="high" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/11/jordanmoms-300x150.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/11/jordanmoms-300x150.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina" src="https://thehoopdoctors.com/wp-content/uploads/2025/11/jordanmoms-300x150.jpg" width="300" height="150" loading="eager" decoding="async" fetchpriority="high" /></noscript>
+                </a>
+            </div>
+            <div class="big-desc">
+                <div class="big-title"><h3><a href="https://thehoopdoctors.com/2025/11/michael-jordan-shows-why-hes-still-the-goat-with-a-massive-hometown-move-in-north-carolina/" title="Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina">Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina</a></h3></div>
+                <div class="magz-meta">Posted On November 20, 2025 | <a href="https://thehoopdoctors.com/2025/11/michael-jordan-shows-why-hes-still-the-goat-with-a-massive-hometown-move-in-north-carolina/#respond"><span class="dsq-postid" data-dsqidentifier="192660 https://thehoopdoctors.com/?p=192660">No Comments<span class="screen-reader-text"> on Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina</span></span></a></div>
+                <p>When we talk about greatness in basketball, one name still towers above all: Michael Jordan. But greatness isn’t just defined by six championships or unforgettable dunks. It’s about legacy, impact and coming full circle. And<a href="https://thehoopdoctors.com/2025/11/michael-jordan-shows-why-hes-still-the-goat-with-a-massive-hometown-move-in-north-carolina/" class="readmore"> [...]</a></p>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/fred-vanvleet-becomes-president-of-the-nba-players-association/" title="Fred VanVleet Becomes President of the NBA Players Association">
+                    <img class="fadeover ewww_webp" alt="Fred VanVleet Becomes President of the NBA Players Association" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/vanvleet_prez-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/vanvleet_prez-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Fred VanVleet Becomes President of the NBA Players Association" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/vanvleet_prez-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/fred-vanvleet-becomes-president-of-the-nba-players-association/" title="Fred VanVleet Becomes President of the NBA Players Association">Fred VanVleet Becomes President of the NBA Players Association</a></h3>
+                <div class="magz-meta">July 12, 2025 | <a href="https://thehoopdoctors.com/2025/07/fred-vanvleet-becomes-president-of-the-nba-players-association/#comments"><span class="dsq-postid" data-dsqidentifier="192611 https://thehoopdoctors.com/?p=192611">1 Comment<span class="screen-reader-text"> on Fred VanVleet Becomes President of the NBA Players Association</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/devin-booker-signs-two-year-145-million-max-contract-with-suns/" title="Devin Booker Signs Two-Year, $145 Million Max Contract with Suns">
+                    <img class="fadeover ewww_webp" alt="Devin Booker Signs Two-Year, $145 Million Max Contract with Suns" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/booker_signed-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/booker_signed-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Devin Booker Signs Two-Year, $145 Million Max Contract with Suns" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/booker_signed-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/devin-booker-signs-two-year-145-million-max-contract-with-suns/" title="Devin Booker Signs Two-Year, $145 Million Max Contract with Suns">Devin Booker Signs Two-Year, $145 Million Max Contract with Suns</a></h3>
+                <div class="magz-meta">July 10, 2025 | <a href="https://thehoopdoctors.com/2025/07/devin-booker-signs-two-year-145-million-max-contract-with-suns/#respond"><span class="dsq-postid" data-dsqidentifier="192595 https://thehoopdoctors.com/?p=192595">No Comments<span class="screen-reader-text"> on Devin Booker Signs Two-Year, $145 Million Max Contract with Suns</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/top-nba-free-agency-moves-so-far-this-summer/" title="Top NBA Free Agency Moves So Far This Summer">
+                    <img class="fadeover ewww_webp" alt="Top NBA Free Agency Moves So Far This Summer" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/06/durantrockets-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/06/durantrockets-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Top NBA Free Agency Moves So Far This Summer" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/durantrockets-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/top-nba-free-agency-moves-so-far-this-summer/" title="Top NBA Free Agency Moves So Far This Summer">Top NBA Free Agency Moves So Far This Summer</a></h3>
+                <div class="magz-meta">July 6, 2025 | <a href="https://thehoopdoctors.com/2025/07/top-nba-free-agency-moves-so-far-this-summer/#respond"><span class="dsq-postid" data-dsqidentifier="192577 https://thehoopdoctors.com/?p=192577">No Comments<span class="screen-reader-text"> on Top NBA Free Agency Moves So Far This Summer</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/mike-brown-signs-new-deal-with-the-knicks-amid-coaching-shakeup/" title="Mike Brown Signs New Deal with the Knicks Amid Coaching Shakeup">
+                    <img class="fadeover ewww_webp" alt="Mike Brown Signs New Deal with the Knicks Amid Coaching Shakeup" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/mikebrown-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/mikebrown-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Mike Brown Signs New Deal with the Knicks Amid Coaching Shakeup" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/mikebrown-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/mike-brown-signs-new-deal-with-the-knicks-amid-coaching-shakeup/" title="Mike Brown Signs New Deal with the Knicks Amid Coaching Shakeup">Mike Brown Signs New Deal with the Knicks Amid Coaching Shakeup</a></h3>
+                <div class="magz-meta">July 6, 2025 | <a href="https://thehoopdoctors.com/2025/07/mike-brown-signs-new-deal-with-the-knicks-amid-coaching-shakeup/#comments"><span class="dsq-postid" data-dsqidentifier="192570 https://thehoopdoctors.com/?p=192570">1 Comment<span class="screen-reader-text"> on Mike Brown Signs New Deal with the Knicks Amid Coaching Shakeup</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/could-the-lakers-trade-lebron-for-kawhi-an-in-depth-analysis/" title="Could the Lakers Trade LeBron for Kawhi? An In Depth Analysis">
+                    <img class="fadeover ewww_webp" alt="Could the Lakers Trade LeBron for Kawhi? An In Depth Analysis" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/bronleo-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/bronleo-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Could the Lakers Trade LeBron for Kawhi? An In Depth Analysis" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/bronleo-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/could-the-lakers-trade-lebron-for-kawhi-an-in-depth-analysis/" title="Could the Lakers Trade LeBron for Kawhi? An In Depth Analysis">Could the Lakers Trade LeBron for Kawhi? An In Depth Analysis</a></h3>
+                <div class="magz-meta">July 5, 2025 | <a href="https://thehoopdoctors.com/2025/07/could-the-lakers-trade-lebron-for-kawhi-an-in-depth-analysis/#respond"><span class="dsq-postid" data-dsqidentifier="192546 https://thehoopdoctors.com/?p=192546">No Comments<span class="screen-reader-text"> on Could the Lakers Trade LeBron for Kawhi? An In Depth Analysis</span></span></a></div>
+            </div>
+        </div>
+            </div>
+
+<div class="grid_4 omega widget-magazine half">
+    <div class="widget-line-title"><h3>League Buzz</h3></div>                    <div class="block-big">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/08/top-10-nba-rumors-week-of-august-12-2025/" title="Top 10 NBA Rumors &#8211; Week of August 12, 2025">
+                    <img class="fadeover ewww_webp" alt="Top 10 NBA Rumors &#8211; Week of August 12, 2025" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="150" loading="eager" decoding="async" fetchpriority="high" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/08/traeyoung-300x150.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/08/traeyoung-300x150.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Top 10 NBA Rumors &#8211; Week of August 12, 2025" src="https://thehoopdoctors.com/wp-content/uploads/2025/08/traeyoung-300x150.jpg" width="300" height="150" loading="eager" decoding="async" fetchpriority="high" /></noscript>
+                </a>
+            </div>
+            <div class="big-desc">
+                <div class="big-title"><h3><a href="https://thehoopdoctors.com/2025/08/top-10-nba-rumors-week-of-august-12-2025/" title="Top 10 NBA Rumors &#8211; Week of August 12, 2025">Top 10 NBA Rumors &#8211; Week of August 12, 2025</a></h3></div>
+                <div class="magz-meta">Posted On August 12, 2025 | <a href="https://thehoopdoctors.com/2025/08/top-10-nba-rumors-week-of-august-12-2025/#comments"><span class="dsq-postid" data-dsqidentifier="192651 https://thehoopdoctors.com/?p=192651">1 Comment<span class="screen-reader-text"> on Top 10 NBA Rumors &#8211; Week of August 12, 2025</span></span></a></div>
+                <p>With training camps inching closer and a few big-name situations still unsettled, the rumor mill is running hot. Below are the 10 storylines that dominated NBA chatter this week, what they could mean on the<a href="https://thehoopdoctors.com/2025/08/top-10-nba-rumors-week-of-august-12-2025/" class="readmore"> [...]</a></p>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/why-the-dallas-mavericks-are-the-frontrunner-to-land-lebron-james/" title="Why the Dallas Mavericks Are the Frontrunner to Land LeBron James">
+                    <img class="fadeover ewww_webp" alt="Why the Dallas Mavericks Are the Frontrunner to Land LeBron James" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/mavs-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/mavs-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Why the Dallas Mavericks Are the Frontrunner to Land LeBron James" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/mavs-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/why-the-dallas-mavericks-are-the-frontrunner-to-land-lebron-james/" title="Why the Dallas Mavericks Are the Frontrunner to Land LeBron James">Why the Dallas Mavericks Are the Frontrunner to Land LeBron James</a></h3>
+                <div class="magz-meta">July 16, 2025 | <a href="https://thehoopdoctors.com/2025/07/why-the-dallas-mavericks-are-the-frontrunner-to-land-lebron-james/#respond"><span class="dsq-postid" data-dsqidentifier="192624 https://thehoopdoctors.com/?p=192624">No Comments<span class="screen-reader-text"> on Why the Dallas Mavericks Are the Frontrunner to Land LeBron James</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/dylan-harper-outshines-cooper-flagg-in-summer-league-showdown/" title="Dylan Harper Outshines Cooper Flagg in Summer League Showdown">
+                    <img class="fadeover ewww_webp" alt="Dylan Harper Outshines Cooper Flagg in Summer League Showdown" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/flaggharper-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/flaggharper-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Dylan Harper Outshines Cooper Flagg in Summer League Showdown" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/flaggharper-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/dylan-harper-outshines-cooper-flagg-in-summer-league-showdown/" title="Dylan Harper Outshines Cooper Flagg in Summer League Showdown">Dylan Harper Outshines Cooper Flagg in Summer League Showdown</a></h3>
+                <div class="magz-meta">July 13, 2025 | <a href="https://thehoopdoctors.com/2025/07/dylan-harper-outshines-cooper-flagg-in-summer-league-showdown/#respond"><span class="dsq-postid" data-dsqidentifier="192615 https://thehoopdoctors.com/?p=192615">No Comments<span class="screen-reader-text"> on Dylan Harper Outshines Cooper Flagg in Summer League Showdown</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/" title="Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On">
+                    <img class="fadeover ewww_webp" alt="Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/currygolf-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/currygolf-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/currygolf-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/" title="Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On">Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On</a></h3>
+                <div class="magz-meta">July 10, 2025 | <a href="https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/#respond"><span class="dsq-postid" data-dsqidentifier="192598 https://thehoopdoctors.com/?p=192598">No Comments<span class="screen-reader-text"> on Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/bradley-beal-free-agency-rumor-and-top-3-landing-spots/" title="Bradley Beal Free Agency Rumor and Top 3 Landing Spots">
+                    <img class="fadeover ewww_webp" alt="Bradley Beal Free Agency Rumor and Top 3 Landing Spots" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/bealmove-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/bealmove-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Bradley Beal Free Agency Rumor and Top 3 Landing Spots" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/bealmove-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/bradley-beal-free-agency-rumor-and-top-3-landing-spots/" title="Bradley Beal Free Agency Rumor and Top 3 Landing Spots">Bradley Beal Free Agency Rumor and Top 3 Landing Spots</a></h3>
+                <div class="magz-meta">July 6, 2025 | <a href="https://thehoopdoctors.com/2025/07/bradley-beal-free-agency-rumor-and-top-3-landing-spots/#respond"><span class="dsq-postid" data-dsqidentifier="192566 https://thehoopdoctors.com/?p=192566">No Comments<span class="screen-reader-text"> on Bradley Beal Free Agency Rumor and Top 3 Landing Spots</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/bobby-jacksons-wildest-bet-60k-to-vlade-divac-and-a-naked-serenade-at-trump-plaza/" title="Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza">
+                    <img class="fadeover ewww_webp" alt="Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/jacksondivac-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/jacksondivac-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover ewww_webp" alt="Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/jacksondivac-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/jacksondivac-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/jacksondivac-75x60.jpg" width="75" height="60" /></noscript></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/bobby-jacksons-wildest-bet-60k-to-vlade-divac-and-a-naked-serenade-at-trump-plaza/" title="Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza">Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza</a></h3>
+                <div class="magz-meta">July 5, 2025 | <a href="https://thehoopdoctors.com/2025/07/bobby-jacksons-wildest-bet-60k-to-vlade-divac-and-a-naked-serenade-at-trump-plaza/#respond"><span class="dsq-postid" data-dsqidentifier="192552 https://thehoopdoctors.com/?p=192552">No Comments<span class="screen-reader-text"> on Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza</span></span></a></div>
+            </div>
+        </div>
+            </div>
+</div><div class="clear"></div><div class="magazine-widget">
+<div class="grid_4 alpha widget-magazine half">
+    <div class="widget-line-title"><h3>NCAA</h3></div>                    <div class="block-big">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/06/ace-baileys-bold-draft-strategy-will-refusing-nba-meetings-hurt-his-stock/" title="Ace Bailey’s Bold Draft Strategy: Will Refusing NBA Meetings Hurt His Stock?">
+                    <img class="fadeover" alt="Ace Bailey’s Bold Draft Strategy: Will Refusing NBA Meetings Hurt His Stock?" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/acedraft-300x150.jpg" width="300" height="150" loading="eager" decoding="async" fetchpriority="high" />
+                </a>
+            </div>
+            <div class="big-desc">
+                <div class="big-title"><h3><a href="https://thehoopdoctors.com/2025/06/ace-baileys-bold-draft-strategy-will-refusing-nba-meetings-hurt-his-stock/" title="Ace Bailey’s Bold Draft Strategy: Will Refusing NBA Meetings Hurt His Stock?">Ace Bailey’s Bold Draft Strategy: Will Refusing NBA Meetings Hurt His Stock?</a></h3></div>
+                <div class="magz-meta">Posted On June 19, 2025 | <a href="https://thehoopdoctors.com/2025/06/ace-baileys-bold-draft-strategy-will-refusing-nba-meetings-hurt-his-stock/#comments"><span class="dsq-postid" data-dsqidentifier="192304 http://thehoopdoctors.com/?p=192304">3 Comments<span class="screen-reader-text"> on Ace Bailey’s Bold Draft Strategy: Will Refusing NBA Meetings Hurt His Stock?</span></span></a></div>
+                <p>As the 2025 NBA Draft approaches, one name that continues to generate buzz—for all the right and wrong reasons—is Ace Bailey. Does the Ace?Bailey bold draft strategy matter? The hyper-athletic wing from Rutgers has long<a href="https://thehoopdoctors.com/2025/06/ace-baileys-bold-draft-strategy-will-refusing-nba-meetings-hurt-his-stock/" class="readmore"> [...]</a></p>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/06/the-hoop-doctors-2025-nba-mock-draft-2-0/" title="The Hoop Doctors 2025 NBA Mock Draft 2.0">
+                    <img class="fadeover" alt="The Hoop Doctors 2025 NBA Mock Draft 2.0" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/coopdyl-75x60.jpg" width="75" height="60" />
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/06/the-hoop-doctors-2025-nba-mock-draft-2-0/" title="The Hoop Doctors 2025 NBA Mock Draft 2.0">The Hoop Doctors 2025 NBA Mock Draft 2.0</a></h3>
+                <div class="magz-meta">June 13, 2025 | <a href="https://thehoopdoctors.com/2025/06/the-hoop-doctors-2025-nba-mock-draft-2-0/#comments"><span class="dsq-postid" data-dsqidentifier="192192 http://thehoopdoctors.com/?p=192192">2 Comments<span class="screen-reader-text"> on The Hoop Doctors 2025 NBA Mock Draft 2.0</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/06/federal-judge-approves-historic-2-8-billion-house-v-ncaa-settlement/" title="Federal Judge Approves Historic $2.8 Billion “House v. NCAA” Settlement">
+                    <img class="fadeover" alt="Federal Judge Approves Historic $2.8 Billion “House v. NCAA” Settlement" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/ncaapayments-75x60.jpg" width="75" height="60" />
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/06/federal-judge-approves-historic-2-8-billion-house-v-ncaa-settlement/" title="Federal Judge Approves Historic $2.8 Billion “House v. NCAA” Settlement">Federal Judge Approves Historic $2.8 Billion “House v. NCAA” Settlement</a></h3>
+                <div class="magz-meta">June 10, 2025 | <a href="https://thehoopdoctors.com/2025/06/federal-judge-approves-historic-2-8-billion-house-v-ncaa-settlement/#respond"><span class="dsq-postid" data-dsqidentifier="192135 http://thehoopdoctors.com/?p=192135">No Comments<span class="screen-reader-text"> on Federal Judge Approves Historic $2.8 Billion “House v. NCAA” Settlement</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/05/2025-nba-mock-draft-thds-first-round/" title="2025 NBA Mock Draft – THD&#8217;s First Round">
+                    <img class="fadeover" alt="2025 NBA Mock Draft – THD&#8217;s First Round" src="https://thehoopdoctors.com/wp-content/uploads/2009/02/cooperflagg1-75x60.jpg" width="75" height="60" />
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/05/2025-nba-mock-draft-thds-first-round/" title="2025 NBA Mock Draft – THD&#8217;s First Round">2025 NBA Mock Draft – THD&#8217;s First Round</a></h3>
+                <div class="magz-meta">May 30, 2025 | <a href="https://thehoopdoctors.com/2025/05/2025-nba-mock-draft-thds-first-round/#comments"><span class="dsq-postid" data-dsqidentifier="191946 http://thehoopdoctors.com/?p=191946">1 Comment<span class="screen-reader-text"> on 2025 NBA Mock Draft – THD&#8217;s First Round</span></span></a></div>
+            </div>
+        </div>
+            </div>
+
+<div class="grid_4 omega widget-magazine half">
+    <div class="widget-line-title"><h3>OffBeat</h3></div>                    <div class="block-big">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/" title="Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On">
+                    <img class="fadeover ewww_webp" alt="Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="300" height="150" loading="eager" decoding="async" fetchpriority="high" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/currygolf-300x150.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/currygolf-300x150.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/currygolf-300x150.jpg" width="300" height="150" loading="eager" decoding="async" fetchpriority="high" /></noscript>
+                </a>
+            </div>
+            <div class="big-desc">
+                <div class="big-title"><h3><a href="https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/" title="Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On">Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On</a></h3></div>
+                <div class="magz-meta">Posted On July 10, 2025 | <a href="https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/#respond"><span class="dsq-postid" data-dsqidentifier="192598 https://thehoopdoctors.com/?p=192598">No Comments<span class="screen-reader-text"> on Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On</span></span></a></div>
+                <p>Golden State Warriors superstar Steph Curry is no stranger to the golf course. But this time, he&#8217;s going viral not for his sweet swing — but for imitating someone else&#8217;s. In a moment of playful<a href="https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/" class="readmore"> [...]</a></p>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/paul-pierce-declares-himself-most-equipped-scorer-in-nba-history-on-fox-sports-and-the-internet-explodes/" title="Paul Pierce Declares Himself “Most Equipped Scorer in NBA History” on Fox Sports – and the Internet Explodes">
+                    <img class="fadeover ewww_webp" alt="Paul Pierce Declares Himself “Most Equipped Scorer in NBA History” on Fox Sports – and the Internet Explodes" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/pierceclaim-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/pierceclaim-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Paul Pierce Declares Himself “Most Equipped Scorer in NBA History” on Fox Sports – and the Internet Explodes" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/pierceclaim-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/paul-pierce-declares-himself-most-equipped-scorer-in-nba-history-on-fox-sports-and-the-internet-explodes/" title="Paul Pierce Declares Himself “Most Equipped Scorer in NBA History” on Fox Sports – and the Internet Explodes">Paul Pierce Declares Himself “Most Equipped Scorer in NBA History” on Fox Sports – and the Internet Explodes</a></h3>
+                <div class="magz-meta">July 6, 2025 | <a href="https://thehoopdoctors.com/2025/07/paul-pierce-declares-himself-most-equipped-scorer-in-nba-history-on-fox-sports-and-the-internet-explodes/#respond"><span class="dsq-postid" data-dsqidentifier="192558 https://thehoopdoctors.com/?p=192558">No Comments<span class="screen-reader-text"> on Paul Pierce Declares Himself “Most Equipped Scorer in NBA History” on Fox Sports – and the Internet Explodes</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/07/bobby-jacksons-wildest-bet-60k-to-vlade-divac-and-a-naked-serenade-at-trump-plaza/" title="Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza">
+                    <img class="fadeover ewww_webp" alt="Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/jacksondivac-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/jacksondivac-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover ewww_webp" alt="Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/jacksondivac-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/jacksondivac-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/jacksondivac-75x60.jpg" width="75" height="60" /></noscript></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/07/bobby-jacksons-wildest-bet-60k-to-vlade-divac-and-a-naked-serenade-at-trump-plaza/" title="Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza">Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza</a></h3>
+                <div class="magz-meta">July 5, 2025 | <a href="https://thehoopdoctors.com/2025/07/bobby-jacksons-wildest-bet-60k-to-vlade-divac-and-a-naked-serenade-at-trump-plaza/#respond"><span class="dsq-postid" data-dsqidentifier="192552 https://thehoopdoctors.com/?p=192552">No Comments<span class="screen-reader-text"> on Bobby Jackson’s Wildest Bet: $60K to Vlade Divac, and a Naked Serenade at Trump Plaza</span></span></a></div>
+            </div>
+        </div>
+                            <div class="block-small">
+            <div class="magz-image">
+                <a class="standard-format-icon" href="https://thehoopdoctors.com/2025/06/javon-smalls-grandfather-steals-the-show-at-the-2025-nba-draft/" title="Javon Small’s Grandfather Steals the Show at the 2025 NBA Draft">
+                    <img class="fadeover ewww_webp" alt="Javon Small’s Grandfather Steals the Show at the 2025 NBA Draft" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/06/grampa_full-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/06/grampa_full-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" alt="Javon Small’s Grandfather Steals the Show at the 2025 NBA Draft" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/grampa_full-75x60.jpg" width="75" height="60" /></noscript>
+                </a>
+            </div>
+            <div class="description">
+                <h3><a class="des-title" href="https://thehoopdoctors.com/2025/06/javon-smalls-grandfather-steals-the-show-at-the-2025-nba-draft/" title="Javon Small’s Grandfather Steals the Show at the 2025 NBA Draft">Javon Small’s Grandfather Steals the Show at the 2025 NBA Draft</a></h3>
+                <div class="magz-meta">June 27, 2025 | <a href="https://thehoopdoctors.com/2025/06/javon-smalls-grandfather-steals-the-show-at-the-2025-nba-draft/#respond"><span class="dsq-postid" data-dsqidentifier="192466 https://thehoopdoctors.com/?p=192466">No Comments<span class="screen-reader-text"> on Javon Small’s Grandfather Steals the Show at the 2025 NBA Draft</span></span></a></div>
+            </div>
+        </div>
+            </div>
+</div><div class="clear"></div><div class="magazine-widget"><div class="widget-line-title"><h3>Kicks</h3></div>		<div class="widget-magazine">
+											<div class="block-big block-big-last">
+											<div class="magz-image">
+							<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/06/nike-kobe-6-protro-2025s-unrivaled-court-king/' title='Nike Kobe 6 Protro: 2025’s Unrivaled Court King'>
+								<img class="fadeover" alt="Nike Kobe 6 Protro: 2025’s Unrivaled Court King" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/koberedblack-300x150.jpg" />
+							</a>
+						</div>
+										<div class="big-desc">
+						<div class="big-title"><h3><a href='https://thehoopdoctors.com/2025/06/nike-kobe-6-protro-2025s-unrivaled-court-king/' title='Nike Kobe 6 Protro: 2025’s Unrivaled Court King'>Nike Kobe 6 Protro: 2025’s Unrivaled Court King</a></h3></div>
+						<div class="magz-meta">Posted On June 19, 2025 | <a href="https://thehoopdoctors.com/2025/06/nike-kobe-6-protro-2025s-unrivaled-court-king/#respond"><span class="dsq-postid" data-dsqidentifier="192317 http://thehoopdoctors.com/?p=192317">No Comments<span class="screen-reader-text"> on Nike Kobe 6 Protro: 2025’s Unrivaled Court King</span></span></a></div>
+						<p>In 2025, no basketball sneaker has made a bigger splash than the Nike Kobe 6 Protro 2025. From NBA hardwood minutes to booming resale valuations and a constantly expanding fanbase, this iconic silhouette has cemented<a href='https://thehoopdoctors.com/2025/06/nike-kobe-6-protro-2025s-unrivaled-court-king/' title='Nike Kobe 6 Protro: 2025’s Unrivaled Court King' class="readmore"> [...]</a></p>
+					</div>
+				</div>
+															<div class="block-small left">
+													<div class="magz-image">
+								<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/06/most-exciting-sneaker-releases-in-june-2025/' title='Most Exciting Sneaker Releases in June 2025'>
+									<img class="fadeover" alt="Most Exciting Sneaker Releases in June 2025" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/supreme1-75x60.png" width="75" height="60" />
+								</a>
+							</div>
+												<div class="description">
+							<h3><a class="des-title" href='https://thehoopdoctors.com/2025/06/most-exciting-sneaker-releases-in-june-2025/' title='Most Exciting Sneaker Releases in June 2025'>Most Exciting Sneaker Releases in June 2025</a></h3>
+							<div class="magz-meta">June 6, 2025 | <a href="https://thehoopdoctors.com/2025/06/most-exciting-sneaker-releases-in-june-2025/#respond"><span class="dsq-postid" data-dsqidentifier="192027 http://thehoopdoctors.com/?p=192027">No Comments<span class="screen-reader-text"> on Most Exciting Sneaker Releases in June 2025</span></span></a></div>
+						</div>
+					</div>
+																			<div class="block-small right">
+													<div class="magz-image">
+								<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/05/top-jordan-sneaker-releases-in-may-2025/' title='Top Jordan Sneaker Releases in May 2025'>
+									<img class="fadeover" alt="Top Jordan Sneaker Releases in May 2025" src="https://thehoopdoctors.com/wp-content/uploads/2025/05/kicksmonth-75x60.png" width="75" height="60" />
+								</a>
+							</div>
+												<div class="description">
+							<h3><a class="des-title" href='https://thehoopdoctors.com/2025/05/top-jordan-sneaker-releases-in-may-2025/' title='Top Jordan Sneaker Releases in May 2025'>Top Jordan Sneaker Releases in May 2025</a></h3>
+							<div class="magz-meta">May 15, 2025 | <a href="https://thehoopdoctors.com/2025/05/top-jordan-sneaker-releases-in-may-2025/#respond"><span class="dsq-postid" data-dsqidentifier="191914 http://thehoopdoctors.com/?p=191914">No Comments<span class="screen-reader-text"> on Top Jordan Sneaker Releases in May 2025</span></span></a></div>
+						</div>
+					</div>
+																			<div class="block-small left">
+													<div class="magz-image">
+								<a class="standard-format-icon" href='https://thehoopdoctors.com/2021/05/steph-curry-bruce-lee-foundation-partner-with-goldin-auctions-to-sell-custom-sneakers-for-families-of-atlanta-shooting-victims/' title='Steph Curry &#038; Bruce Lee Foundation Partner to Sell Sneakers For Families of Atlanta Shooting Victims'>
+									<img class="fadeover" alt="Steph Curry &#038; Bruce Lee Foundation Partner to Sell Sneakers For Families of Atlanta Shooting Victims" src="https://thehoopdoctors.com/wp-content/uploads/2021/05/currylee2-75x60.jpeg" width="75" height="60" />
+								</a>
+							</div>
+												<div class="description">
+							<h3><a class="des-title" href='https://thehoopdoctors.com/2021/05/steph-curry-bruce-lee-foundation-partner-with-goldin-auctions-to-sell-custom-sneakers-for-families-of-atlanta-shooting-victims/' title='Steph Curry &#038; Bruce Lee Foundation Partner to Sell Sneakers For Families of Atlanta Shooting Victims'>Steph Curry &#038; Bruce Lee Foundation Partner to Sell Sneakers&hellip;</a></h3>
+							<div class="magz-meta">May 12, 2021 | <a href="https://thehoopdoctors.com/2021/05/steph-curry-bruce-lee-foundation-partner-with-goldin-auctions-to-sell-custom-sneakers-for-families-of-atlanta-shooting-victims/#respond"><span class="dsq-postid" data-dsqidentifier="191087 http://thehoopdoctors.com/?p=191087">No Comments<span class="screen-reader-text"> on Steph Curry &#038; Bruce Lee Foundation Partner to Sell Sneakers For Families of Atlanta Shooting Victims</span></span></a></div>
+						</div>
+					</div>
+																			<div class="block-small right">
+													<div class="magz-image">
+								<a class="standard-format-icon" href='https://thehoopdoctors.com/2021/02/curry-brand-partners-with-devin-allen-to-celebrate-black-history-month-with-undr-armr-x-dvnlln/' title='Curry Brand Partners with Devin Allen to Celebrate Black History Month With UNDR ARMR x DVNLLN'>
+									<img class="fadeover" alt="Curry Brand Partners with Devin Allen to Celebrate Black History Month With UNDR ARMR x DVNLLN" src="https://thehoopdoctors.com/wp-content/uploads/2021/02/banner-75x60.jpg" width="75" height="60" />
+								</a>
+							</div>
+												<div class="description">
+							<h3><a class="des-title" href='https://thehoopdoctors.com/2021/02/curry-brand-partners-with-devin-allen-to-celebrate-black-history-month-with-undr-armr-x-dvnlln/' title='Curry Brand Partners with Devin Allen to Celebrate Black History Month With UNDR ARMR x DVNLLN'>Curry Brand Partners with Devin Allen to Celebrate Black History&hellip;</a></h3>
+							<div class="magz-meta">February 17, 2021 | <a href="https://thehoopdoctors.com/2021/02/curry-brand-partners-with-devin-allen-to-celebrate-black-history-month-with-undr-armr-x-dvnlln/#respond"><span class="dsq-postid" data-dsqidentifier="190974 http://thehoopdoctors.com/?p=190974">No Comments<span class="screen-reader-text"> on Curry Brand Partners with Devin Allen to Celebrate Black History Month With UNDR ARMR x DVNLLN</span></span></a></div>
+						</div>
+					</div>
+									</div>
+</div><div class="clear"></div><div class="magazine-widget"><div class="widget-line-title"><h3>Trending Lists</h3></div>		<div class="widget-magazine">
+											<div class="block-big block-big-last">
+											<div class="magz-image">
+							<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/06/top-10-greatest-nba-players-not-drafted-in-the-first-round-of-the-nba-draft/' title='Top 10 Greatest NBA Players Not Drafted in the First Round of the NBA Draft'>
+								<img class="fadeover" alt="Top 10 Greatest NBA Players Not Drafted in the First Round of the NBA Draft" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/noround1_final-300x150.jpg" />
+							</a>
+						</div>
+										<div class="big-desc">
+						<div class="big-title"><h3><a href='https://thehoopdoctors.com/2025/06/top-10-greatest-nba-players-not-drafted-in-the-first-round-of-the-nba-draft/' title='Top 10 Greatest NBA Players Not Drafted in the First Round of the NBA Draft'>Top 10 Greatest NBA Players Not Drafted in the First Round of the NBA Draft</a></h3></div>
+						<div class="magz-meta">Posted On June 20, 2025 | <a href="https://thehoopdoctors.com/2025/06/top-10-greatest-nba-players-not-drafted-in-the-first-round-of-the-nba-draft/#respond"><span class="dsq-postid" data-dsqidentifier="192334 http://thehoopdoctors.com/?p=192334">No Comments<span class="screen-reader-text"> on Top 10 Greatest NBA Players Not Drafted in the First Round of the NBA Draft</span></span></a></div>
+						<p>Some of the NBA&#8217;s most iconic players weren&#8217;t selected in the first round of the NBA Draft. Whether undrafted or second-round steals, these players defied expectations and carved out legendary careers. Here&#8217;s a look at<a href='https://thehoopdoctors.com/2025/06/top-10-greatest-nba-players-not-drafted-in-the-first-round-of-the-nba-draft/' title='Top 10 Greatest NBA Players Not Drafted in the First Round of the NBA Draft' class="readmore"> [...]</a></p>
+					</div>
+				</div>
+															<div class="block-small left">
+													<div class="magz-image">
+								<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/06/top-10-three-point-shooters-in-nba-history/' title='Top 10 Three Point Shooters in NBA History'>
+									<img class="fadeover" alt="Top 10 Three Point Shooters in NBA History" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/curry-miller-75x60.jpg" width="75" height="60" />
+								</a>
+							</div>
+												<div class="description">
+							<h3><a class="des-title" href='https://thehoopdoctors.com/2025/06/top-10-three-point-shooters-in-nba-history/' title='Top 10 Three Point Shooters in NBA History'>Top 10 Three Point Shooters in NBA History</a></h3>
+							<div class="magz-meta">June 1, 2025 | <a href="https://thehoopdoctors.com/2025/06/top-10-three-point-shooters-in-nba-history/#comments"><span class="dsq-postid" data-dsqidentifier="191975 http://thehoopdoctors.com/?p=191975">1 Comment<span class="screen-reader-text"> on Top 10 Three Point Shooters in NBA History</span></span></a></div>
+						</div>
+					</div>
+																			<div class="block-small right">
+													<div class="magz-image">
+								<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/05/top-10-nba-players-of-all-time-2025-edition/' title='Top 10 NBA Players of All Time:  2025 Edition'>
+									<img class="fadeover" alt="Top 10 NBA Players of All Time:  2025 Edition" src="https://thehoopdoctors.com/wp-content/uploads/2025/05/top10-75x60.png" width="75" height="60" />
+								</a>
+							</div>
+												<div class="description">
+							<h3><a class="des-title" href='https://thehoopdoctors.com/2025/05/top-10-nba-players-of-all-time-2025-edition/' title='Top 10 NBA Players of All Time:  2025 Edition'>Top 10 NBA Players of All Time: 2025 Edition</a></h3>
+							<div class="magz-meta">May 15, 2025 | <a href="https://thehoopdoctors.com/2025/05/top-10-nba-players-of-all-time-2025-edition/#respond"><span class="dsq-postid" data-dsqidentifier="191905 http://thehoopdoctors.com/?p=191905">No Comments<span class="screen-reader-text"> on Top 10 NBA Players of All Time:  2025 Edition</span></span></a></div>
+						</div>
+					</div>
+																			<div class="block-small left">
+													<div class="magz-image">
+								<a class="standard-format-icon" href='https://thehoopdoctors.com/2023/12/nbas-best-trash-talkers-all-time/' title='NBA&#8217;s Best Trash Talkers (All-time)'>
+									<img class="fadeover" alt="NBA&#8217;s Best Trash Talkers (All-time)" src="https://thehoopdoctors.com/wp-content/uploads/2023/12/jordanmillertrashtalk-75x60.jpg" width="75" height="60" />
+								</a>
+							</div>
+												<div class="description">
+							<h3><a class="des-title" href='https://thehoopdoctors.com/2023/12/nbas-best-trash-talkers-all-time/' title='NBA&#8217;s Best Trash Talkers (All-time)'>NBA&#8217;s Best Trash Talkers (All-time)</a></h3>
+							<div class="magz-meta">December 4, 2023 | <a href="https://thehoopdoctors.com/2023/12/nbas-best-trash-talkers-all-time/#comments"><span class="dsq-postid" data-dsqidentifier="191670 http://thehoopdoctors.com/?p=191670">1 Comment<span class="screen-reader-text"> on NBA&#8217;s Best Trash Talkers (All-time)</span></span></a></div>
+						</div>
+					</div>
+																			<div class="block-small right">
+													<div class="magz-image">
+								<a class="standard-format-icon" href='https://thehoopdoctors.com/2023/11/the-10-greatest-point-guards-in-the-history-of-the-nba/' title='The 10 Greatest Point Guards in the History of the NBA'>
+									<img class="fadeover" alt="The 10 Greatest Point Guards in the History of the NBA" src="https://thehoopdoctors.com/wp-content/uploads/2023/11/magiccurry-75x60.jpg" width="75" height="60" />
+								</a>
+							</div>
+												<div class="description">
+							<h3><a class="des-title" href='https://thehoopdoctors.com/2023/11/the-10-greatest-point-guards-in-the-history-of-the-nba/' title='The 10 Greatest Point Guards in the History of the NBA'>The 10 Greatest Point Guards in the History of the&hellip;</a></h3>
+							<div class="magz-meta">November 9, 2023 | <a href="https://thehoopdoctors.com/2023/11/the-10-greatest-point-guards-in-the-history-of-the-nba/#comments"><span class="dsq-postid" data-dsqidentifier="191665 http://thehoopdoctors.com/?p=191665">1 Comment<span class="screen-reader-text"> on The 10 Greatest Point Guards in the History of the NBA</span></span></a></div>
+						</div>
+					</div>
+																			<div class="block-small left">
+													<div class="magz-image">
+								<a class="standard-format-icon" href='https://thehoopdoctors.com/2023/09/5-underrated-nba-stars-that-showed-their-value-at-the-fiba-world-cup/' title='5 Underrated NBA Stars That Showed Their Value At The FIBA World Cup'>
+									<img class="fadeover" alt="5 Underrated NBA Stars That Showed Their Value At The FIBA World Cup" src="https://thehoopdoctors.com/wp-content/uploads/2023/09/kelly-75x60.jpg" width="75" height="60" />
+								</a>
+							</div>
+												<div class="description">
+							<h3><a class="des-title" href='https://thehoopdoctors.com/2023/09/5-underrated-nba-stars-that-showed-their-value-at-the-fiba-world-cup/' title='5 Underrated NBA Stars That Showed Their Value At The FIBA World Cup'>5 Underrated NBA Stars That Showed Their Value At The&hellip;</a></h3>
+							<div class="magz-meta">September 11, 2023 | <a href="https://thehoopdoctors.com/2023/09/5-underrated-nba-stars-that-showed-their-value-at-the-fiba-world-cup/#respond"><span class="dsq-postid" data-dsqidentifier="191617 http://thehoopdoctors.com/?p=191617">No Comments<span class="screen-reader-text"> on 5 Underrated NBA Stars That Showed Their Value At The FIBA World Cup</span></span></a></div>
+						</div>
+					</div>
+																			<div class="block-small right">
+													<div class="magz-image">
+								<a class="standard-format-icon" href='https://thehoopdoctors.com/2023/08/cleveland-cavaliers-top-10-moments-in-history/' title='Cleveland Cavaliers: Top 10 Moments in History'>
+									<img class="fadeover" alt="Cleveland Cavaliers: Top 10 Moments in History" src="https://thehoopdoctors.com/wp-content/uploads/2023/08/cavs-75x60.jpg" width="75" height="60" />
+								</a>
+							</div>
+												<div class="description">
+							<h3><a class="des-title" href='https://thehoopdoctors.com/2023/08/cleveland-cavaliers-top-10-moments-in-history/' title='Cleveland Cavaliers: Top 10 Moments in History'>Cleveland Cavaliers: Top 10 Moments in History</a></h3>
+							<div class="magz-meta">August 28, 2023 | <a href="https://thehoopdoctors.com/2023/08/cleveland-cavaliers-top-10-moments-in-history/#respond"><span class="dsq-postid" data-dsqidentifier="191607 http://thehoopdoctors.com/?p=191607">No Comments<span class="screen-reader-text"> on Cleveland Cavaliers: Top 10 Moments in History</span></span></a></div>
+						</div>
+					</div>
+									</div>
+</div><div class="clear"></div>				</div>
+				<!-- End Magazine Widget-->
+			</div>
+			<!-- End Content -->
+						<!-- Begin Right Sidebar -->
+			<div class="right-sidebar grid_4">
+					<div class="social-counter-wrapper">
+		<div class="social-counter rss-count">
+						<a target="new" href='http://eepurl.com/bravf'></a>
+			
+						<div class="social-count">7000+</div>
+										
+			<div class="social-descrip">Subscribers</div>
+			
+		</div>
+		
+		<div class="social-counter twitter-count">
+			<a target="new" href="https://twitter.com/anklesnap"></a>
+			<div class="social-count">4015</div>
+			<div class="social-descrip">Followers</div>
+		</div>
+		
+		
+		<div class="social-counter facebook-count">
+			
+			<a target="new" href="https://facebook.com/TheHoopDoctors"></a>
+			
+			<div class="social-count">471102</div>
+			<div class="social-descrip">Fans</div>
+		</div>
+		
+	</div>
+		
+					<div class="adds300x250" id="ad300"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5289539691954067"
+     crossorigin="anonymous"></script>
+<!-- Sidebar Code -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5289539691954067"
+     data-ad-slot="8560208765"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		<div class="widget"><h3 class="sidebar-widget-title"><span>Recent Posts</span></h3>
+	<div class="tab_content">
+	
+	
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/11/nba-power-rankings-pistons-are-red-hot/' title='NBA Power Rankings:  Pistons are Red Hot!'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="NBA Power Rankings:  Pistons are Red Hot!" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/11/cadepower-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/11/cadepower-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/11/cadepower-75x60.jpg" alt="NBA Power Rankings:  Pistons are Red Hot!" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/11/nba-power-rankings-pistons-are-red-hot/' title='NBA Power Rankings:  Pistons are Red Hot!'>NBA Power Rankings:  Pistons are Red Hot!</a></h3>
+				<div class="tabs-meta">November 20, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/11/michael-jordan-shows-why-hes-still-the-goat-with-a-massive-hometown-move-in-north-carolina/' title='Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/11/jordanmoms-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/11/jordanmoms-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/11/jordanmoms-75x60.jpg" alt="Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/11/michael-jordan-shows-why-hes-still-the-goat-with-a-massive-hometown-move-in-north-carolina/' title='Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina'>Michael Jordan Shows Why He’s Still the GOAT With a Massive Hometown Move in North Carolina</a></h3>
+				<div class="tabs-meta">November 20, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/11/how-digital-culture-is-transforming-the-modern-nba-fan-experience/' title='How Digital Culture Is Transforming the Modern NBA Fan Experience'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="How Digital Culture Is Transforming the Modern NBA Fan Experience" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/11/nbafanexperience-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/11/nbafanexperience-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/11/nbafanexperience-75x60.jpg" alt="How Digital Culture Is Transforming the Modern NBA Fan Experience" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/11/how-digital-culture-is-transforming-the-modern-nba-fan-experience/' title='How Digital Culture Is Transforming the Modern NBA Fan Experience'>How Digital Culture Is Transforming the Modern NBA Fan Experience</a></h3>
+				<div class="tabs-meta">November 19, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/08/top-10-nba-rumors-week-of-august-12-2025/' title='Top 10 NBA Rumors &#8211; Week of August 12, 2025'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Top 10 NBA Rumors &#8211; Week of August 12, 2025" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/08/traeyoung-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/08/traeyoung-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/08/traeyoung-75x60.jpg" alt="Top 10 NBA Rumors &#8211; Week of August 12, 2025" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/08/top-10-nba-rumors-week-of-august-12-2025/' title='Top 10 NBA Rumors &#8211; Week of August 12, 2025'>Top 10 NBA Rumors &#8211; Week of August 12, 2025</a></h3>
+				<div class="tabs-meta">August 12, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/07/why-the-dallas-mavericks-are-the-frontrunner-to-land-lebron-james/' title='Why the Dallas Mavericks Are the Frontrunner to Land LeBron James'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Why the Dallas Mavericks Are the Frontrunner to Land LeBron James" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2011/01/chandlermavs.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2011/01/chandlermavs.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2011/01/chandlermavs.jpg" alt="Why the Dallas Mavericks Are the Frontrunner to Land LeBron James" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/07/why-the-dallas-mavericks-are-the-frontrunner-to-land-lebron-james/' title='Why the Dallas Mavericks Are the Frontrunner to Land LeBron James'>Why the Dallas Mavericks Are the Frontrunner to Land LeBron James</a></h3>
+				<div class="tabs-meta">July 16, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/07/dylan-harper-outshines-cooper-flagg-in-summer-league-showdown/' title='Dylan Harper Outshines Cooper Flagg in Summer League Showdown'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Dylan Harper Outshines Cooper Flagg in Summer League Showdown" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/flaggharper-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/flaggharper-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/flaggharper-75x60.jpg" alt="Dylan Harper Outshines Cooper Flagg in Summer League Showdown" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/07/dylan-harper-outshines-cooper-flagg-in-summer-league-showdown/' title='Dylan Harper Outshines Cooper Flagg in Summer League Showdown'>Dylan Harper Outshines Cooper Flagg in Summer League Showdown</a></h3>
+				<div class="tabs-meta">July 13, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/07/fred-vanvleet-becomes-president-of-the-nba-players-association/' title='Fred VanVleet Becomes President of the NBA Players Association'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Fred VanVleet Becomes President of the NBA Players Association" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/vanvleet_prez-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/vanvleet_prez-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/vanvleet_prez-75x60.jpg" alt="Fred VanVleet Becomes President of the NBA Players Association" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/07/fred-vanvleet-becomes-president-of-the-nba-players-association/' title='Fred VanVleet Becomes President of the NBA Players Association'>Fred VanVleet Becomes President of the NBA Players Association</a></h3>
+				<div class="tabs-meta">July 12, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/' title='Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/currygolf-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/currygolf-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/currygolf-75x60.jpg" alt="Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/07/steph-curry-hilariously-imitates-lebrons-golf-swing-and-its-spot-on/' title='Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On'>Steph Curry Hilariously Imitates LeBron&#8217;s Golf Swing — And It&#8217;s Spot On</a></h3>
+				<div class="tabs-meta">July 10, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/07/devin-booker-signs-two-year-145-million-max-contract-with-suns/' title='Devin Booker Signs Two-Year, $145 Million Max Contract with Suns'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Devin Booker Signs Two-Year, $145 Million Max Contract with Suns" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/booker_signed-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/booker_signed-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/booker_signed-75x60.jpg" alt="Devin Booker Signs Two-Year, $145 Million Max Contract with Suns" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/07/devin-booker-signs-two-year-145-million-max-contract-with-suns/' title='Devin Booker Signs Two-Year, $145 Million Max Contract with Suns'>Devin Booker Signs Two-Year, $145 Million Max Contract with Suns</a></h3>
+				<div class="tabs-meta">July 10, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/07/the-caitlin-clark-effect-accelerating-economic-progress-in-womens-basketball/' title='The Caitlin Clark Effect: Accelerating Economic Progress in Women’s Basketball'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="The Caitlin Clark Effect: Accelerating Economic Progress in Women’s Basketball" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/clarkfever1-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/clarkfever1-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/clarkfever1-75x60.jpg" alt="The Caitlin Clark Effect: Accelerating Economic Progress in Women’s Basketball" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/07/the-caitlin-clark-effect-accelerating-economic-progress-in-womens-basketball/' title='The Caitlin Clark Effect: Accelerating Economic Progress in Women’s Basketball'>The Caitlin Clark Effect: Accelerating Economic Progress in Women’s Basketball</a></h3>
+				<div class="tabs-meta">July 7, 2025</div>
+			</div>
+		</div>
+		</div><!-- END tab_content -->
+
+	</div><div class="widget"><h3 class="sidebar-widget-title"><span>NBA Draft News</span></h3>
+	<div class="tab_content">
+	
+	
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/06/ace-bailey-feels-blessed-to-join-the-jazz/' title='Ace Bailey &#8216;Feels Blessed&#8217; to Join the Jazz'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Ace Bailey &#8216;Feels Blessed&#8217; to Join the Jazz" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/06/baileyutaharrival-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/06/baileyutaharrival-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/baileyutaharrival-75x60.jpg" alt="Ace Bailey &#8216;Feels Blessed&#8217; to Join the Jazz" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/06/ace-bailey-feels-blessed-to-join-the-jazz/' title='Ace Bailey &#8216;Feels Blessed&#8217; to Join the Jazz'>Ace Bailey &#8216;Feels Blessed&#8217; to Join the Jazz</a></h3>
+				<div class="tabs-meta">June 30, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/06/thds-2025-nba-draft-recap/' title='THD&#8217;s 2025 NBA Draft Recap'>
+						<img class="fadeover ewww_webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="THD&#8217;s 2025 NBA Draft Recap" width="75" height="60" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/06/flaggdraft-75x60.jpg" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/06/flaggdraft-75x60.jpg.webp" data-eio="j" /><noscript><img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/flaggdraft-75x60.jpg" alt="THD&#8217;s 2025 NBA Draft Recap" width="75" height="60" /></noscript>
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/06/thds-2025-nba-draft-recap/' title='THD&#8217;s 2025 NBA Draft Recap'>THD&#8217;s 2025 NBA Draft Recap</a></h3>
+				<div class="tabs-meta">June 26, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/06/ace-baileys-bold-draft-strategy-will-refusing-nba-meetings-hurt-his-stock/' title='Ace Bailey’s Bold Draft Strategy: Will Refusing NBA Meetings Hurt His Stock?'>
+						<img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/acedraft.jpg" alt="Ace Bailey’s Bold Draft Strategy: Will Refusing NBA Meetings Hurt His Stock?" width="75" height="60" />
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/06/ace-baileys-bold-draft-strategy-will-refusing-nba-meetings-hurt-his-stock/' title='Ace Bailey’s Bold Draft Strategy: Will Refusing NBA Meetings Hurt His Stock?'>Ace Bailey’s Bold Draft Strategy: Will Refusing NBA Meetings Hurt His Stock?</a></h3>
+				<div class="tabs-meta">June 19, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/06/the-hoop-doctors-2025-nba-mock-draft-2-0/' title='The Hoop Doctors 2025 NBA Mock Draft 2.0'>
+						<img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2025/06/coopdyl.jpg" alt="The Hoop Doctors 2025 NBA Mock Draft 2.0" width="75" height="60" />
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/06/the-hoop-doctors-2025-nba-mock-draft-2-0/' title='The Hoop Doctors 2025 NBA Mock Draft 2.0'>The Hoop Doctors 2025 NBA Mock Draft 2.0</a></h3>
+				<div class="tabs-meta">June 13, 2025</div>
+			</div>
+		</div>
+					<div class="block-tabs">
+							<div class="tabs-image">
+					<a class="standard-format-icon" href='https://thehoopdoctors.com/2025/05/2025-nba-mock-draft-thds-first-round/' title='2025 NBA Mock Draft – THD&#8217;s First Round'>
+						<img class="fadeover" src="https://thehoopdoctors.com/wp-content/uploads/2009/02/cooperflagg1.jpg" alt="2025 NBA Mock Draft – THD&#8217;s First Round" width="75" height="60" />
+					</a>
+				</div>
+						<div class="description">
+				<h3><a href='https://thehoopdoctors.com/2025/05/2025-nba-mock-draft-thds-first-round/' title='2025 NBA Mock Draft – THD&#8217;s First Round'>2025 NBA Mock Draft – THD&#8217;s First Round</a></h3>
+				<div class="tabs-meta">May 30, 2025</div>
+			</div>
+		</div>
+		</div><!-- END tab_content -->
+
+	</div>
+
+
+			</div>
+			<!-- End Right Sidebar -->
+			
+
+		</div>
+		<!-- End Bottom Container 960 gs -->
+	</div>
+	<!-- End Container -->
+	<div class="clear"></div>
+	<!-- Begin Footer -->
+	<div class="footer">
+
+		<!-- Begin Footer Widget -->
+		<div class="footer-widget">
+			<div class="container_12">
+				<!-- Begin Widget 1 -->
+				<div class="grid_4">
+					<div class="widget-footer">
+<h2 class="wp-block-heading"></h2>
+</div><div class="widget-footer">
+<h2 class="wp-block-heading"></h2>
+</div><div class="widget-footer">
+<figure class="wp-block-image size-full"><a href="https://thedoctoredsports.com/"><img loading="lazy" decoding="async" width="185" height="55" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="" class="wp-image-192512 ewww_webp" data-src-img="https://thehoopdoctors.com/wp-content/uploads/2025/07/dsnLogoWhite4.png" data-src-webp="https://thehoopdoctors.com/wp-content/uploads/2025/07/dsnLogoWhite4.png.webp" data-eio="j" /><noscript><img loading="lazy" decoding="async" width="185" height="55" src="https://thehoopdoctors.com/wp-content/uploads/2025/07/dsnLogoWhite4.png" alt="" class="wp-image-192512"/></noscript></a></figure>
+</div>				</div>
+				<!-- End Widget 1 -->
+
+				<!-- Begin Widget 2 -->
+				<div class="grid_4">
+					<div class="widget-footer">
+<h2 class="wp-block-heading">DSN</h2>
+</div><div class="widget-footer">
+<ul class="wp-block-list">
+<li><a href="https://thedoctoredsports.com/about/">About</a></li>
+
+
+
+<li><a href="https://thehoopdoctors.com/privacy-policy/">Privacy Policy</a></li>
+
+
+
+<li><a href="https://thedoctoredsports.com/properties/">Properties</a></li>
+
+
+
+<li><a href="https://www.facebook.com/TheHoopDoctors">Facebook</a></li>
+</ul>
+</div>				</div>
+				<!-- End Widget 2 -->
+
+				<!-- Begin Widget 3 -->
+				<div class="grid_4">
+									</div>
+				<!-- End Widget 3 -->
+				<!-- Begin Widget 4 -->
+<!--
+				<div class="grid_3">
+									</div>
+
+				</div>
+		</div> -->
+		<!-- End Footer Widget -->
+
+		<div class="clear"></div>
+		<!-- Begin Footer Bottom -->
+
+			<div class="container_12">
+			<div class="footer-bottom-wrap grid_12">
+				<!-- Begin Footer Logo
+				<div class="logo-bottom grid_4 alpha">
+										<a href='http://thedoctoredsports.com/'><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="The Hoop Doctors" data-src-img="https://thehoopdoctors.com/wp-content/themes/Backstreet/images/footer-logo.png" data-src-webp="https://thehoopdoctors.com/wp-content/themes/Backstreet/images/footer-logo.png.webp" data-eio="j" class="ewww_webp" /><noscript><img src="https://thehoopdoctors.com/wp-content/themes/Backstreet/images/footer-logo.png" alt="The Hoop Doctors" /></noscript></a>
+				</div> -->
+				<!-- End Footer Logo -->
+				<!-- Begin Footer Text 
+				<div class="grid_10 alpha">
+					<div class="bottomNav-wrapper">
+											</div>
+					<div class="clear"></div>
+					<div class="credits">
+						<p></p>
+					</div>
+				</div>
+					-->
+				<!-- End Footer Text -->
+			
+			</div>
+		</div>
+		<!-- End Footer Bottom -->
+
+	</div>
+	<!-- End Footer -->
+</div>
+<!-- End General -->
+</div>
+
+
+<!-- Begin comScore Tag -->
+<script>document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));</script>
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:6685975,
+    c3:"",
+    c4:"thehoopdoctors.com/",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript>
+<!-- End comScore Tag -->
+
+
+	<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/Backstreet\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<script>
+		var getElementsByClassName=function(a,b,c){if(document.getElementsByClassName){getElementsByClassName=function(a,b,c){c=c||document;var d=c.getElementsByClassName(a),e=b?new RegExp("\\b"+b+"\\b","i"):null,f=[],g;for(var h=0,i=d.length;h<i;h+=1){g=d[h];if(!e||e.test(g.nodeName)){f.push(g)}}return f}}else if(document.evaluate){getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e="",f="http://www.w3.org/1999/xhtml",g=document.documentElement.namespaceURI===f?f:null,h=[],i,j;for(var k=0,l=d.length;k<l;k+=1){e+="[contains(concat(' ', @class, ' '), ' "+d[k]+" ')]"}try{i=document.evaluate(".//"+b+e,c,g,0,null)}catch(m){i=document.evaluate(".//"+b+e,c,null,0,null)}while(j=i.iterateNext()){h.push(j)}return h}}else{getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e=[],f=b==="*"&&c.all?c.all:c.getElementsByTagName(b),g,h=[],i;for(var j=0,k=d.length;j<k;j+=1){e.push(new RegExp("(^|\\s)"+d[j]+"(\\s|$)"))}for(var l=0,m=f.length;l<m;l+=1){g=f[l];i=false;for(var n=0,o=e.length;n<o;n+=1){i=e[n].test(g.className);if(!i){break}}if(i){h.push(g)}}return h}}return getElementsByClassName(a,b,c)},
+			dropdowns = getElementsByClassName( 'dropdown-menu' );
+		for ( i=0; i<dropdowns.length; i++ )
+			dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
+	</script>
+	<script type="text/javascript" src="https://widgetlogic.org/v2/js/data.js?t=1772625600&amp;ver=6.0.8" id="widget-logic_live_match_widget-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/ilc-tabs-widget/ilc-tabs-widget.js?ver=1.4" id="ilc-tabs-widget-js-js"></script>
+<script type="text/javascript" id="eio-lazy-load-js-before">
+/* <![CDATA[ */
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"threshold":0,"use_dpr":1};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=814" id="eio-lazy-load-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/thehoopdoctors.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5" id="contact-form-7-js"></script>
+<script type="text/javascript" id="disqus_count-js-extra">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"thehoopdoctors"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.1.4" id="disqus_count-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.3" id="jquery-ui-accordion-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3" id="jquery-ui-resizable-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3" id="jquery-ui-draggable-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.3" id="jquery-ui-controlgroup-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.3" id="jquery-ui-checkboxradio-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/ui/button.min.js?ver=1.13.3" id="jquery-ui-button-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.3" id="jquery-ui-dialog-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3" id="jquery-ui-tabs-js"></script>
+<script type="text/javascript" id="qppr_frontend_scripts-js-extra">
+/* <![CDATA[ */
+var qpprFrontData = {"linkData":[],"siteURL":"https:\/\/thehoopdoctors.com","siteURLq":"https:\/\/thehoopdoctors.com"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.2.3" id="qppr_frontend_scripts-js"></script>
+<script type="text/javascript" src="https://thehoopdoctors.com/wp-content/themes/Backstreet/js/slider-autoplay.js" id="slider-autoplay-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-before">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {"v":"ext","blog":"83314439","post":"0","tz":"-5","srv":"thehoopdoctors.com","arch_home":"1","j":"1:15.6"} ]);
+_stq.push([ "clickTrackerInit", "83314439", "0" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stats.wp.com/e-202610.js" id="jetpack-stats-js" defer="defer" data-wp-strategy="defer"></script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+@font-face {
+  font-family: "GarabosseParagon";
+  src: url("font/garabosse/Garabosse-Parangon.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #ffffff;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+.landing-wrapper {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#landingCanvas {
+  width: min(10vw, 10vh);
+  height: min(10vw, 10vh);
+  image-rendering: pixelated;
+}
+
+.landing-status {
+  margin-top: 12px;
+  font-family: "GarabosseParagon", serif;
+  font-size: 14px;
+  color: #000000;
+  text-align: center;
+  transition: opacity 0.3s ease;
+}
+
+/* Full-screen white overlay for fade-out */
+.landing-overlay {
+  position: fixed;
+  inset: 0;
+  background: #ffffff;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.8s ease;
+  z-index: 100;
+}
+
+.landing-overlay.is-leaving {
+  opacity: 1;
+  pointer-events: all;
+}
