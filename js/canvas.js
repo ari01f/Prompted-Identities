@@ -1003,32 +1003,29 @@ function Canvas() {
 
   var speed = 0.06;
   var _hoveredSprite = null;
-  var _hoverScale = 1.5;
+  var _hoverOpacity = 0.85;
 
   function imageAnimation() {
     var sleep = true;
     var diff, d;
 
-    // --- Hover scale effect ---
+    // --- Hover opacity effect ---
     var hoverTarget = null;
-    if (selectedImage && selectedImageDistance < cursorCutoff && selectedImage.sprite && selectedImage.active) {
+    if (selectedImage && selectedImageDistance < cursorCutoff && selectedImage.sprite && selectedImage.active && !zoomedToImage) {
       hoverTarget = selectedImage;
     }
-    // Restore previous hovered sprite
+    // Restore previous hovered item
     if (_hoveredSprite && _hoveredSprite !== (hoverTarget && hoverTarget.sprite)) {
-      _hoveredSprite.scale.x = _hoveredSprite._data.scaleFactor;
-      _hoveredSprite.scale.y = _hoveredSprite._data.scaleFactor;
+      _hoveredSprite._data._hoverAlpha = null;
+      _hoveredSprite._data._hoverAlpha2 = null;
       sleep = false;
     }
-    // Apply scale to current hovered sprite
+    // Apply hover opacity — only a subtle dim on the visible layer
     if (hoverTarget) {
       var spr = hoverTarget.sprite;
-      var targetScale = hoverTarget.scaleFactor * _hoverScale;
-      var dx = targetScale - spr.scale.x;
-      if (Math.abs(dx) > 0.0001) {
-        spr.scale.x += dx * 0.3;
-        spr.scale.y += dx * 0.3;
-        sleep = false;
+      hoverTarget._hoverAlpha = hoverTarget.alpha * _hoverOpacity;
+      if (hoverTarget.sprite2 && hoverTarget.alpha2 > 0) {
+        hoverTarget._hoverAlpha2 = hoverTarget.alpha2 * _hoverOpacity;
       }
       _hoveredSprite = spr;
     } else {
@@ -1050,7 +1047,8 @@ function Canvas() {
         sleep = false;
       }
 
-      diff = d.alpha - d.sprite.alpha;
+      var effectiveAlpha = d._hoverAlpha != null ? d._hoverAlpha : d.alpha;
+      diff = effectiveAlpha - d.sprite.alpha;
       if (Math.abs(diff) > 0.01) {
         d.sprite.alpha += diff * 0.2;
         sleep = false;
@@ -1059,7 +1057,8 @@ function Canvas() {
       d.sprite.visible = d.sprite.alpha > 0.05;
 
       if (d.sprite2) {
-        diff = d.alpha2 - d.sprite2.alpha;
+        var effectiveAlpha2 = d._hoverAlpha2 != null ? d._hoverAlpha2 : d.alpha2;
+        diff = effectiveAlpha2 - d.sprite2.alpha;
         if (Math.abs(diff) > 0.01) {
           d.sprite2.alpha += diff * 0.2;
           sleep = false;
@@ -1254,6 +1253,8 @@ function Canvas() {
         d2.alpha2 = 0;
       }
     });
+    // Hide base sprite for zoomed item — detail or big image replaces it
+    d.alpha = 0;
   }
 
   function showAllImages() {
