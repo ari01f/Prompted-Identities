@@ -1,4 +1,7 @@
+
+<img width="1919" height="943" alt="Screenshot 2026-03-24 162704" src="https://github.com/user-attachments/assets/cf1fb445-1a56-4b76-868d-ff7935df0ef4" />
 # Prompted Identities
+
 
 **Prompted Identities** is a research and visualization project that investigates representational bias in text-to-image models.
 
